@@ -1,0 +1,17 @@
+NilFree.exists_nilpotent: standard axioms + NilCore.checkCands_eq._native.native_decide.ax_1_1, NilCore.root_eq._native.native_decide.ax_1_1
+NilFree.not_conjecture8: standard axioms + NilCore.checkCands_eq._native.native_decide.ax_1_1, NilCore.root_eq._native.native_decide.ax_1_1
+NilFree.exists_nilFree_five: standard axioms only
+NilFree.isGreatest_nilFree_finrank: standard axioms + NilCore.checkCands_eq._native.native_decide.ax_1_1, NilCore.root_eq._native.native_decide.ax_1_1
+NilFree.not_holdsAt_zmod3: standard axioms + NilCore.checkCands_eq._native.native_decide.ax_1_1, NilCore.root_eq._native.native_decide.ax_1_1
+NilFree.holdsAt_le_two: standard axioms only
+NilFree.holdsAt_zmod2: standard axioms only
+NilFree.holdsAt_zmod5: standard axioms only
+NilFree.existsUnique_nilpotent_translate: standard axioms only
+NilFree.exists_nilpotent_of_one_mem: standard axioms only
+NilFree.one_not_mem_of_nilFree: standard axioms only
+NilFree.eq_smul_one_of_trace_mul: standard axioms only
+NilFree.c2_eq_trace_sq: standard axioms only
+NilFree.c2_add_smul_one: standard axioms only
+NilFree.det_add_smul_one': standard axioms only
+NilFree.trace_c2_of_isNilpotent: standard axioms only
+axiom audit: 16 theorems, all within the allowed axioms

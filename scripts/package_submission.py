@@ -27,6 +27,7 @@ for p in ROOT.rglob('*'):
         if b'\r\n' in data: p.write_bytes(data.replace(b'\r\r\n',b'\n').replace(b'\r\n',b'\n'))
 
 meta={'version':'1.1.0','doi':record['doi'],
+      'authors':['Deep Bhattacharjee'],
       'zenodo_record':'https://zenodo.org/records/23607867',
       'zenodo_publication_confirmed_before_packaging':True,
       'zenodo_record_state':record['state'],

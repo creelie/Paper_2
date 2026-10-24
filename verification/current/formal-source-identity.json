@@ -1,0 +1,18 @@
+{
+  "unchanged_from_previously_reelaborated_sources": true,
+  "sha256": {
+    "Check.lean": "aa3c763293e1bad3025f0b57fb12844ffc0175291239b274c77be9b7efad7f4d",
+    "lakefile.lean": "d7defd83f96a02fcd89d6d9ec6a71c56e7888a492100133e7160aba1e9ddbe30",
+    "NilCore.lean": "65a21b2ebc3724f9dfa986a73e77770ed06feaefdccef2ad89e6f73f03a87c3c",
+    "NilFree.lean": "e7541f5c44a2b6526980f7db415981dc86c8e546ff487e9e6f61aa2fae08ebf2",
+    "NilCore/Cert.lean": "f966ca91f20e0e9aedd5ccf93f8c201f0e039fb67a61ff3fc21aec6f7107efca",
+    "NilCore/Search.lean": "29fa0392e373e26ade043c73f99ab1a51fa9e8625af481388cba8c2abdee0e8b",
+    "NilCore/Sound.lean": "cbbba626cc58c55ad70ed1ef1942bb33381df1ade574181b136d1a980c021783",
+    "NilFree/Bridge.lean": "d6486814dcfca4da8d3127a475bf06b861d85474caebfb4b739528332f25744b",
+    "NilFree/Char3.lean": "48e7107bf7e2ac9b460fdd6abd1f9c01c6e6a2c5c2f49929d20e29e40170f385",
+    "NilFree/Holds.lean": "84feee7abc6f7f7b407636358daeb179045d6fd898166f706575f0a473b8e043",
+    "NilFree/Main.lean": "b31603502ddb49848053133abe86864d5576279a7a3d905e8dedbf2b1478bfb3"
+  },
+  "current_check": "Fresh axiom inspection of unchanged cached compiled modules; full prior re-elaboration logs retained separately",
+  "standard_axioms_only_main_theorem": false
+}
