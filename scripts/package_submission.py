@@ -19,10 +19,10 @@ def include(p):
         and p.name not in {'SHA256SUMS.txt','main.pdf',NAME+'.sha256'})
 
 # Match the repository's LF checkout policy, so ZIP and Git checksums agree.
-text_suffix={'.md','.json','.txt','.tex','.bib','.bbl','.lean','.py','.c','.cff','.patch'}
+text_suffix={'.md','.json','.txt','.tex','.bib','.bbl','.lean','.py','.c','.cpp','.cff','.patch','.yml'}
 text_names={'LICENSE','.gitattributes','.gitignore','lean-toolchain'}
 for p in ROOT.rglob('*'):
-    if include(p) and (p.suffix in text_suffix or p.name in text_names):
+    if include(p) and (p.suffix in text_suffix or p.name in text_names or p.name.endswith('LICENSE')):
         data=p.read_bytes()
         if b'\r\n' in data: p.write_bytes(data.replace(b'\r\r\n',b'\n').replace(b'\r\n',b'\n'))
 

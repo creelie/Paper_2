@@ -1,0 +1,7 @@
+{
+  "head_sha": "f06f3339ff1d91f8356e4a03ea3221c0d077c94c",
+  "status": "completed",
+  "conclusion": "success",
+  "html_url": "https://github.com/creelie/Paper_2/actions/runs/40052448077",
+  "scope": "Independent exact C and Python checks on Linux; not a formal Lean rebuild"
+}

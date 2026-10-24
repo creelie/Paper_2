@@ -1,0 +1,156 @@
+{
+  "created": "2026-10-24T02:03:16.471139+00:00",
+  "modified": "2026-10-24T02:03:16.719203+00:00",
+  "id": 23607867,
+  "conceptrecid": "23343182",
+  "doi": "10.5281/zenodo.23607867",
+  "conceptdoi": "10.5281/zenodo.23343182",
+  "doi_url": "https://doi.org/10.5281/zenodo.23607867",
+  "metadata": {
+    "title": "Nilpotent-free spaces of 3 x 3 matrices over the field with three elements",
+    "doi": "10.5281/zenodo.23607867",
+    "publication_date": "2026-10-24",
+    "description": "<p>We prove that the maximum dimension of a nilpotent-free linear subspace of M_3(F_3) is five, disproving the universally quantified finite-field assertion in Wigderson, arXiv:2609.29177v1, Conjecture 8. This submission revision includes a direct algebraic proof of the five-dimensional example, an exhaustive upper-bound coverage argument, a complete independent C verifier, a vector diagram and precise computational trust disclosure. The accompanying Lean development uses two native_decide evaluations for the finite upper bound; it is not a standard-axioms-only kernel proof. The new written algebraic and quadratic-form arguments are not claimed to be formalized. The manuscript is formatted for possible submission to Annals of Mathematics; it has not been submitted to or accepted by that journal. Source and verification files: https://github.com/creelie/Paper_2 . Original preprint: https://hexagonmath.org/2610.00480v1 .</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Bhattacharjee, Deep",
+        "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India",
+        "orcid": "0000-0003-0466-750X"
+      }
+    ],
+    "keywords": [
+      "nilpotent matrices",
+      "spaces of matrices",
+      "finite fields",
+      "Gerstenhaber's theorem",
+      "duality",
+      "Lean 4",
+      "15A30",
+      "15A03"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/creelie/Paper_2",
+        "relation": "isSupplementedBy",
+        "resource_type": "software",
+        "scheme": "url"
+      },
+      {
+        "identifier": "arXiv:2609.29177",
+        "relation": "references",
+        "resource_type": "publication-preprint",
+        "scheme": "arxiv"
+      }
+    ],
+    "version": "1.1.0",
+    "language": "eng",
+    "custom": {
+      "code:codeRepository": "https://github.com/creelie/Paper_2"
+    },
+    "resource_type": {
+      "title": "Preprint",
+      "type": "publication",
+      "subtype": "preprint"
+    },
+    "license": {
+      "id": "mit-license"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 1,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "23343182"
+          }
+        }
+      ]
+    },
+    "notes": "Corresponding author: d.bhattacharjee@erl-forschung.de; also itsdeep@live.com."
+  },
+  "title": "Nilpotent-free spaces of 3 x 3 matrices over the field with three elements",
+  "links": {
+    "self": "https://zenodo.org/api/records/23607867",
+    "self_html": "https://zenodo.org/records/23607867",
+    "preview_html": "https://zenodo.org/records/23607867?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.23607867",
+    "self_doi": "https://doi.org/10.5281/zenodo.23607867",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23607867",
+    "reserve_doi": "https://zenodo.org/api/records/23607867/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/23343182",
+    "parent_html": "https://zenodo.org/records/23343182",
+    "parent_doi": "https://doi.org/10.5281/zenodo.23343182",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23343182",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:23607867/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:23607867/sequence/default",
+    "files": "https://zenodo.org/api/records/23607867/files",
+    "media_files": "https://zenodo.org/api/records/23607867/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:23607867:Paper_2_Annals.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:23607867:Paper_2_Annals.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:23607867:Paper_2_Annals.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:23607867:Paper_2_Annals.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:23607867:Paper_2_Annals.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:23607867:Paper_2_Annals.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/23607867/versions/latest",
+    "latest_html": "https://zenodo.org/records/23607867/latest",
+    "versions": "https://zenodo.org/api/records/23607867/versions",
+    "draft": "https://zenodo.org/api/records/23607867/draft",
+    "access_links": "https://zenodo.org/api/records/23607867/access/links",
+    "access_grants": "https://zenodo.org/api/records/23607867/access/grants",
+    "access_users": "https://zenodo.org/api/records/23607867/access/users",
+    "access_request": "https://zenodo.org/api/records/23607867/access/request",
+    "access": "https://zenodo.org/api/records/23607867/access",
+    "communities": "https://zenodo.org/api/records/23607867/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/23607867/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/23607867/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/23607867/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/23607867/quota-increase",
+    "requests": "https://zenodo.org/api/records/23607867/requests"
+  },
+  "updated": "2026-10-24T02:03:16.719203+00:00",
+  "recid": "23607867",
+  "revision": 4,
+  "files": [
+    {
+      "id": "3a3828c9-09d1-4ef4-8378-90220139eaa7",
+      "key": "ARCHIVE-NOTES.md",
+      "size": 1202,
+      "checksum": "md5:5add3ed931a4e15a6d565791fd2b93db",
+      "links": {
+        "self": "https://zenodo.org/api/records/23607867/files/ARCHIVE-NOTES.md/content"
+      }
+    },
+    {
+      "id": "9707948f-7d9b-4e52-a467-1d603bfba2bb",
+      "key": "Paper_2_Annals.pdf",
+      "size": 587830,
+      "checksum": "md5:73e3c1078e18bc9299b81d3283c44115",
+      "links": {
+        "self": "https://zenodo.org/api/records/23607867/files/Paper_2_Annals.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "92077"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 0,
+    "unique_downloads": 0,
+    "views": 2,
+    "unique_views": 2,
+    "version_downloads": 0,
+    "version_unique_downloads": 0,
+    "version_unique_views": 0,
+    "version_views": 0
+  },
+  "state": "done",
+  "submitted": true
+}
