@@ -1,0 +1,9 @@
+depth 0: nodes 1 closed 0
+depth 1: nodes 27 closed 9
+depth 2: nodes 486 closed 228
+depth 3: nodes 6966 closed 5165
+depth 4: nodes 48627 closed 0
+depth 5: nodes 1312929 closed 1248453
+depth 6: nodes 1740852 closed 1740852
+total nodes 3109888; open leaves 0
+exact exhaustive upper-bound audit: PASS

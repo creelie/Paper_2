@@ -1,0 +1,32 @@
+'NilFree.exists_nilpotent' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ NilCore.checkCands_eq._native.native_decide.ax_1_1,
+ NilCore.root_eq._native.native_decide.ax_1_1]
+'NilFree.not_conjecture8' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ NilCore.checkCands_eq._native.native_decide.ax_1_1,
+ NilCore.root_eq._native.native_decide.ax_1_1]
+'NilFree.exists_nilFree_five' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.isGreatest_nilFree_finrank' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ NilCore.checkCands_eq._native.native_decide.ax_1_1,
+ NilCore.root_eq._native.native_decide.ax_1_1]
+'NilFree.not_holdsAt_zmod3' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound,
+ NilCore.checkCands_eq._native.native_decide.ax_1_1,
+ NilCore.root_eq._native.native_decide.ax_1_1]
+'NilFree.holdsAt_le_two' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.holdsAt_zmod2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.holdsAt_zmod5' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.existsUnique_nilpotent_translate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.exists_nilpotent_of_one_mem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.one_not_mem_of_nilFree' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.eq_smul_one_of_trace_mul' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.c2_eq_trace_sq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.c2_add_smul_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.det_add_smul_one'' depends on axioms: [propext, Classical.choice, Quot.sound]
+'NilFree.trace_c2_of_isNilpotent' depends on axioms: [propext, Classical.choice, Quot.sound]

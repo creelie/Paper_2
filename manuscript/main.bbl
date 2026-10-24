@@ -1,0 +1,83 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\noopsort}[1]{}
+\providecommand{\mr}[1]{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR~#1}}
+\providecommand{\zbl}[1]{\href{http://www.zentralblatt-math.org/zmath/en/search/?q=an:#1}{Zbl~#1}}
+\providecommand{\jfm}[1]{\href{http://www.emis.de/cgi-bin/JFM-item?#1}{JFM~#1}}
+\providecommand{\arxiv}[1]{\href{http://www.arxiv.org/abs/#1}{arXiv~#1}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{Ar}
+\bgroup\scshape{}D.~Bhattacharjee\egroup{}, Nilpotent-free spaces of
+  {$3\times3$} matrices over {$\mathbb F_3$}: paper, {Lean 4} development and
+  computations, 2026, Preceding research archive.
+  \doi{10.5281/zenodo.23343183}.
+
+\bibitem{Preprint}
+\bgroup\scshape{}D.~Bhattacharjee\egroup{}, Nilpotent-free spaces of
+  {$3\times3$} matrices over the field with three elements, 2026,
+  hexagon:2610.00480v1. Available at
+  \url{https://hexagonmath.org/2610.00480v1}.
+
+\bibitem{Revision}
+\bgroup\scshape{}D.~Bhattacharjee\egroup{}, Nilpotent-free spaces of
+  {$3\times3$} matrices over the field with three elements: {Annals} submission
+  revision, 2026, Version 1.1.0; manuscript, source and verification files.
+  \doi{10.5281/zenodo.23607867}.
+
+\bibitem{MU}
+\bgroup\scshape{}L.~{de Moura}\egroup{} and
+  \bgroup\scshape{}S.~Ullrich\egroup{}, The {Lean 4} theorem prover and
+  programming language,  in \emph{Automated Deduction---CADE 28}, \emph{Lecture
+  Notes in Computer Science} \textbf{12699}, Springer, 2021, pp.~625--635.
+  \doi{10.1007/978-3-030-79876-5_37}.
+
+\bibitem{dSP}
+\bgroup\scshape{}C.~{de Seguins Pazzis}\egroup{}, On {Gerstenhaber}'s theorem
+  for spaces of nilpotent matrices over a skew field,  \emph{Linear Algebra
+  Appl.} \textbf{438} (2013), 4426--4438. \doi{10.1016/j.laa.2013.01.035}.
+
+\bibitem{Di}
+\bgroup\scshape{}J.~Dieudonn\'e\egroup{}, Sur une g\'en\'eralisation du groupe
+  orthogonal \`a quatre variables,  \emph{Arch. Math.} \textbf{1} (1949),
+  282--287. \doi{10.1007/BF02038756}.
+
+\bibitem{FH}
+\bgroup\scshape{}N.~J. Fine\egroup{} and \bgroup\scshape{}I.~N.
+  Herstein\egroup{}, The probability that a matrix be nilpotent,
+  \emph{Illinois J. Math.} \textbf{2} (1958), 499--504.
+  \doi{10.1215/ijm/1255454112}.
+
+\bibitem{Ge}
+\bgroup\scshape{}M.~Gerstenhaber\egroup{}, On nilalgebras and linear varieties
+  of nilpotent matrices. {I},  \emph{Amer. J. Math.} \textbf{80} (1958),
+  614--622. \doi{10.2307/2372773}.
+
+\bibitem{Me}
+\bgroup\scshape{}R.~Meshulam\egroup{}, On the maximal rank in a subspace of
+  matrices,  \emph{Quart. J. Math. Oxford Ser. (2)} \textbf{36} (1985),
+  225--229. \doi{10.1093/qmath/36.2.225}.
+
+\bibitem{Se}
+\bgroup\scshape{}V.~N. Serezhkin\egroup{}, Linear transformations preserving
+  nilpotency,  \emph{Vests\={\i} Akad. Navuk BSSR Ser. F\={\i}z.-Mat. Navuk}
+  no.~6 (1985), 46--50, Russian.
+
+\bibitem{Mathlib}
+\bgroup\scshape{}{The mathlib Community}\egroup{}, The {Lean} mathematical
+  library,  in \emph{Proceedings of the 9th ACM SIGPLAN International
+  Conference on Certified Programs and Proofs (CPP 2020)}, ACM, 2020,
+  pp.~367--381. \doi{10.1145/3372885.3373824}.
+
+\bibitem{Wi}
+\bgroup\scshape{}Y.~Wigderson\egroup{}, Duality for matrix space questions,
+  2026, Version 1, Conjecture 8. Available at
+  \url{https://arxiv.org/abs/2609.29177}.
+
+\end{thebibliography}

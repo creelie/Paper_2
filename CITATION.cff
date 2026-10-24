@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and the specific archived revision."
+type: software
+title: "Verification files for nilpotent-free matrix spaces over F3"
+authors:
+  - family-names: Bhattacharjee
+    given-names: Deep
+    orcid: "https://orcid.org/0000-0003-0466-750X"
+version: 1.1.0
+date-released: 2026-10-24
+doi: 10.5281/zenodo.23607867
+url: "https://github.com/creelie/Paper_2"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Nilpotent-free spaces of 3 x 3 matrices over the field with three elements"
+  authors:
+    - family-names: Bhattacharjee
+      given-names: Deep
+      orcid: "https://orcid.org/0000-0003-0466-750X"
+  year: 2026
+  version: 1.1.0
+  doi: "10.5281/zenodo.23607867"
+  url: "https://github.com/creelie/Paper_2"
+  notes: "Research preprint prepared for possible Annals of Mathematics submission."

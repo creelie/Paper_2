@@ -1,0 +1,1 @@
+q=3: 5-dim subspaces of sl3: 25095280, without a nonzero nilpotent: 0

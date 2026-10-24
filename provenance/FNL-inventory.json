@@ -1,0 +1,938 @@
+[
+  {
+    "name": "FNL/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/audit-tree.log",
+    "size": 306,
+    "compressed": 160,
+    "crc32": "6b89485e"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/COVER-LETTER-LAA.md",
+    "size": 2019,
+    "compressed": 1056,
+    "crc32": "a758b763"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/examples.log",
+    "size": 234,
+    "compressed": 154,
+    "crc32": "e2d2fc83"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/audit_axioms.py",
+    "size": 1318,
+    "compressed": 650,
+    "crc32": "cbfcd996"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/Check.lean",
+    "size": 1277,
+    "compressed": 520,
+    "crc32": "e7cf6d6f"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/lake-manifest.json",
+    "size": 3312,
+    "compressed": 693,
+    "crc32": "f2c0ad7b"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/lakefile.lean",
+    "size": 557,
+    "compressed": 375,
+    "crc32": "6a55b96f"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/lean-toolchain",
+    "size": 26,
+    "compressed": 26,
+    "crc32": "c7cf4cea"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilCore/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilCore/Cert.lean",
+    "size": 612,
+    "compressed": 344,
+    "crc32": "b49688f0"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilCore/Search.lean",
+    "size": 5068,
+    "compressed": 2036,
+    "crc32": "f4d2be3b"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilCore/Sound.lean",
+    "size": 3976,
+    "compressed": 1529,
+    "crc32": "6e7b5ae9"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilCore.lean",
+    "size": 66,
+    "compressed": 40,
+    "crc32": "bde3e929"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilFree/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilFree/Bridge.lean",
+    "size": 6146,
+    "compressed": 2257,
+    "crc32": "c33c6729"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilFree/Char3.lean",
+    "size": 13358,
+    "compressed": 3982,
+    "crc32": "fd5cb271"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilFree/Holds.lean",
+    "size": 12096,
+    "compressed": 3844,
+    "crc32": "15495abc"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilFree/Main.lean",
+    "size": 4495,
+    "compressed": 1708,
+    "crc32": "fd8549d6"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/NilFree.lean",
+    "size": 88,
+    "compressed": 48,
+    "crc32": "f65c9dcd"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/formal/ORIGINAL-LICENSE",
+    "size": 1096,
+    "compressed": 644,
+    "crc32": "0d583dfb"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/FORMAL-STATUS.md",
+    "size": 253,
+    "compressed": 179,
+    "crc32": "5288829f"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/HIGHLIGHTS.txt",
+    "size": 258,
+    "compressed": 179,
+    "crc32": "64d4008c"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/audit_tree.c",
+    "size": 2512,
+    "compressed": 1067,
+    "crc32": "818b4807"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/figures/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/figures/board.png",
+    "size": 60979,
+    "compressed": 57782,
+    "crc32": "935595a1"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/figures/tree.png",
+    "size": 43513,
+    "compressed": 38174,
+    "crc32": "1a405c02"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.aux",
+    "size": 5735,
+    "compressed": 1608,
+    "crc32": "588b1682"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.fdb_latexmk",
+    "size": 19546,
+    "compressed": 5777,
+    "crc32": "54b78f64"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.fls",
+    "size": 53295,
+    "compressed": 1826,
+    "crc32": "e5e4f753"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.log",
+    "size": 26280,
+    "compressed": 6576,
+    "crc32": "5f9cc10e"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.out",
+    "size": 1633,
+    "compressed": 381,
+    "crc32": "9fb6ef03"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.pdf",
+    "size": 590044,
+    "compressed": 566896,
+    "crc32": "85b6a919"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.spl",
+    "size": 0,
+    "compressed": 2,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/nilpotent-free-F3.tex",
+    "size": 31904,
+    "compressed": 11794,
+    "crc32": "1bf5aef2"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/manuscript/verify_examples.py",
+    "size": 2393,
+    "compressed": 1056,
+    "crc32": "9f78b961"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/nilpotent-free-F3-source.zip",
+    "size": 112661,
+    "compressed": 112559,
+    "crc32": "1eaa6318"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/nilpotent-free-F3.pdf",
+    "size": 590044,
+    "compressed": 566896,
+    "crc32": "85b6a919"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/PROOF-AUDIT.md",
+    "size": 4474,
+    "compressed": 2090,
+    "crc32": "a9d9f964"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/README.md",
+    "size": 1012,
+    "compressed": 587,
+    "crc32": "87b9b52d"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/REVISION-NOTES.md",
+    "size": 924,
+    "compressed": 502,
+    "crc32": "29949abf"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/SHA256SUMS.json",
+    "size": 3792,
+    "compressed": 1924,
+    "crc32": "49da816a"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/SUBMISSION-NOTES.md",
+    "size": 2634,
+    "compressed": 1373,
+    "crc32": "cd9198c4"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/trace-zero.log",
+    "size": 71,
+    "compressed": 72,
+    "crc32": "5b882f23"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/audit-tree.log",
+    "size": 306,
+    "compressed": 160,
+    "crc32": "6b89485e"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/audit_tree.c",
+    "size": 2849,
+    "compressed": 1266,
+    "crc32": "7097388c"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/engine-full-tests-python312.log",
+    "size": 34383,
+    "compressed": 7083,
+    "crc32": "c5a53862"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/examples.log",
+    "size": 234,
+    "compressed": 154,
+    "crc32": "e2d2fc83"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/formal-reelaboration.log",
+    "size": 1566,
+    "compressed": 403,
+    "crc32": "84278e3d"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/lean-axioms.log",
+    "size": 1835,
+    "compressed": 309,
+    "crc32": "1e928d61"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/lean-build.log",
+    "size": 426,
+    "compressed": 155,
+    "crc32": "52720c6b"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/c/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/c/all_six_dim.c",
+    "size": 3284,
+    "compressed": 1322,
+    "crc32": "0ba7dff7"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/c/histogram.c",
+    "size": 2773,
+    "compressed": 1033,
+    "crc32": "64311ff9"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/c/trace_zero.c",
+    "size": 2671,
+    "compressed": 1015,
+    "crc32": "eb259966"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/cpp/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/cpp/tree.cpp",
+    "size": 2654,
+    "compressed": 1152,
+    "crc32": "20d69ffd"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/python/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/original/python/checks.py",
+    "size": 5153,
+    "compressed": 1820,
+    "crc32": "857573f2"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/trace-zero.log",
+    "size": 71,
+    "compressed": 72,
+    "crc32": "5b882f23"
+  },
+  {
+    "name": "FNL/01-Nilpotent-free-F3-LAA-2026-10-24/verification/verify_examples.py",
+    "size": 2393,
+    "compressed": 1056,
+    "crc32": "9f78b961"
+  },
+  {
+    "name": "FNL/01-nilpotent-free-F3-LAA-2026-10-24.zip",
+    "size": 1422820,
+    "compressed": 1416582,
+    "crc32": "eb3bf010"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/COVER-LETTER-JHEP.md",
+    "size": 2216,
+    "compressed": 1176,
+    "crc32": "58f1edbe"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/abstract.tex",
+    "size": 1278,
+    "compressed": 663,
+    "crc32": "5feeb613"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/bib.tex",
+    "size": 8458,
+    "compressed": 2916,
+    "crc32": "ccd908a0"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/body.tex",
+    "size": 77465,
+    "compressed": 24678,
+    "crc32": "91b3aa74"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_lightcone.pdf",
+    "size": 88350,
+    "compressed": 80676,
+    "crc32": "a4797eec"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_lightcone.png",
+    "size": 192851,
+    "compressed": 185987,
+    "crc32": "cd2d2fc1"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_multiplets.pdf",
+    "size": 22539,
+    "compressed": 16982,
+    "crc32": "47f48d21"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_multiplets.png",
+    "size": 121250,
+    "compressed": 113721,
+    "crc32": "307985a1"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_residuals.pdf",
+    "size": 20631,
+    "compressed": 16075,
+    "crc32": "08d98230"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_residuals.png",
+    "size": 159881,
+    "compressed": 150546,
+    "crc32": "bfdcb7e7"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_signatures.pdf",
+    "size": 32531,
+    "compressed": 23298,
+    "crc32": "d2ee1097"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_signatures.png",
+    "size": 145508,
+    "compressed": 137029,
+    "crc32": "829003f0"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_spinorcount.pdf",
+    "size": 21586,
+    "compressed": 14540,
+    "crc32": "c3e5b8e2"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/figures/fig_spinorcount.png",
+    "size": 61136,
+    "compressed": 53954,
+    "crc32": "baf2daa5"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/hexagon.tex",
+    "size": 1049,
+    "compressed": 597,
+    "crc32": "f3bdd3a1"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/jheppub.sty",
+    "size": 12186,
+    "compressed": 3972,
+    "crc32": "7ce8d91b"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/main.pdf",
+    "size": 937313,
+    "compressed": 893670,
+    "crc32": "d15221a9"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/main.tex",
+    "size": 1040,
+    "compressed": 624,
+    "crc32": "11e75275"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/manuscript/preamble.tex",
+    "size": 1494,
+    "compressed": 530,
+    "crc32": "665baa40"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/PROOF-AUDIT.md",
+    "size": 5661,
+    "compressed": 2638,
+    "crc32": "0d255ba4"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/README.md",
+    "size": 1129,
+    "compressed": 684,
+    "crc32": "4cfab385"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/REVISION-NOTES.md",
+    "size": 1388,
+    "compressed": 750,
+    "crc32": "d8831489"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/SHA256SUMS.json",
+    "size": 3586,
+    "compressed": 1794,
+    "crc32": "dae8cf04"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/SUBMISSION-NOTES.md",
+    "size": 2307,
+    "compressed": 1238,
+    "crc32": "37215557"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/sym-null-projection-source.zip",
+    "size": 837988,
+    "compressed": 837682,
+    "crc32": "1340d161"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/sym-null-projection.pdf",
+    "size": 937313,
+    "compressed": 893670,
+    "crc32": "d15221a9"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/sym-verification.zip",
+    "size": 19340,
+    "compressed": 18859,
+    "crc32": "da9f4587"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/code/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/code/clifford.py",
+    "size": 3785,
+    "compressed": 1519,
+    "crc32": "e09f43e0"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/code/LICENSE",
+    "size": 1096,
+    "compressed": 644,
+    "crc32": "0d583dfb"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/code/requirements.txt",
+    "size": 29,
+    "compressed": 28,
+    "crc32": "9d342c75"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/code/verify.py",
+    "size": 13904,
+    "compressed": 4641,
+    "crc32": "ff621066"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/engine-full-tests.log",
+    "size": 34832,
+    "compressed": 7155,
+    "crc32": "b5f87089"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/environment.json",
+    "size": 215,
+    "compressed": 157,
+    "crc32": "4cde2dc6"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/page-audit.json",
+    "size": 202,
+    "compressed": 115,
+    "crc32": "29fa6c7d"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/paper-build.log",
+    "size": 31737,
+    "compressed": 3387,
+    "crc32": "116cc813"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24/verification/sym-numerical-checks.log",
+    "size": 3087,
+    "compressed": 728,
+    "crc32": "01660d44"
+  },
+  {
+    "name": "FNL/02-SYM-null-projection-JHEP-2026-10-24.zip",
+    "size": 3514790,
+    "compressed": 3510261,
+    "crc32": "5a3d59f2"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/ANAXIA-CI.json",
+    "size": 739,
+    "compressed": 247,
+    "crc32": "5a7537fb"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/ANAXIA-MERGE.json",
+    "size": 128,
+    "compressed": 109,
+    "crc32": "5a32cd98"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/AUDIT-STATUS.md",
+    "size": 1495,
+    "compressed": 799,
+    "crc32": "2f0cf7b2"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/BRIDGE-PROOF.md",
+    "size": 12467,
+    "compressed": 5208,
+    "crc32": "47fcaff1"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/manuscript/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/manuscript/figures/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/manuscript/figures/three-averages-data.json",
+    "size": 31765,
+    "compressed": 8373,
+    "crc32": "36017908"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/manuscript/figures/three-averages.pdf",
+    "size": 22619,
+    "compressed": 15627,
+    "crc32": "bc12d070"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/manuscript/main.tex",
+    "size": 19118,
+    "compressed": 7764,
+    "crc32": "09526e0a"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/ORIGINAL-LICENSE",
+    "size": 1204,
+    "compressed": 716,
+    "crc32": "4bd3cce4"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/poisson-brane-bridge-source.zip",
+    "size": 23808,
+    "compressed": 23775,
+    "crc32": "383db846"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/poisson-brane-bridge.pdf",
+    "size": 318651,
+    "compressed": 310558,
+    "crc32": "31eae34f"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/PROVENANCE.json",
+    "size": 348,
+    "compressed": 215,
+    "crc32": "36860bd6"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/README.md",
+    "size": 1607,
+    "compressed": 865,
+    "crc32": "fbae6f0f"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/SHA256SUMS.json",
+    "size": 3584,
+    "compressed": 1812,
+    "crc32": "77045f56"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/bridge-checks.json",
+    "size": 1944,
+    "compressed": 876,
+    "crc32": "d1c74704"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/bridge-checks.log",
+    "size": 2152,
+    "compressed": 328,
+    "crc32": "14a6a508"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/bridge-paper-build.log",
+    "size": 6569,
+    "compressed": 1344,
+    "crc32": "aebede4c"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/check_bridge.py",
+    "size": 3553,
+    "compressed": 1595,
+    "crc32": "4c79e678"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/check_oneloop_matrix.py",
+    "size": 16782,
+    "compressed": 5744,
+    "crc32": "637b31b9"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/ebllm/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/ebllm/construct/",
+    "size": 0,
+    "compressed": 0,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/ebllm/construct/brane_formfactor.py",
+    "size": 18991,
+    "compressed": 6751,
+    "crc32": "940af454"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/ebllm/construct/poisson_bridge.py",
+    "size": 5994,
+    "compressed": 2376,
+    "crc32": "6740e919"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/ebllm/construct/__init__.py",
+    "size": 0,
+    "compressed": 2,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/ebllm/__init__.py",
+    "size": 0,
+    "compressed": 2,
+    "crc32": "00000000"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine/LICENSE",
+    "size": 1096,
+    "compressed": 644,
+    "crc32": "0d583dfb"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/engine-full-tests.log",
+    "size": 45876,
+    "compressed": 8408,
+    "crc32": "3b7df347"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/ghosts-numerical-checks.log",
+    "size": 1350,
+    "compressed": 650,
+    "crc32": "156df5c2"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/lean-powercounting-axioms.log",
+    "size": 982,
+    "compressed": 229,
+    "crc32": "98b87249"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/one-loop-matrix.log",
+    "size": 1463,
+    "compressed": 691,
+    "crc32": "9a17b77a"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/original-ghosts-verify.py",
+    "size": 9542,
+    "compressed": 3374,
+    "crc32": "dc39e24a"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/original-uv-verify.py",
+    "size": 55229,
+    "compressed": 20057,
+    "crc32": "6123a5f0"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/page-audit.json",
+    "size": 71,
+    "compressed": 57,
+    "crc32": "0dd127a6"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/PowerCounting.lean",
+    "size": 10982,
+    "compressed": 3635,
+    "crc32": "931a2b11"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/PowerCountingAudit.lean",
+    "size": 11518,
+    "compressed": 3722,
+    "crc32": "565e9c7c"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/requirements.txt",
+    "size": 59,
+    "compressed": 47,
+    "crc32": "e3120c4c"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/verification/uv-numerical-checks.log",
+    "size": 13905,
+    "compressed": 4737,
+    "crc32": "dab06fdf"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24/VERIFICATION.md",
+    "size": 1993,
+    "compressed": 1017,
+    "crc32": "bcfa330b"
+  },
+  {
+    "name": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24.zip",
+    "size": 450310,
+    "compressed": 429342,
+    "crc32": "ae9af0fc"
+  },
+  {
+    "name": "FNL/annals-eight-research-2026-10-23.zip",
+    "size": 33820906,
+    "compressed": 33827984,
+    "crc32": "b3b292ae"
+  },
+  {
+    "name": "FNL/CLAUDE PAPERS.zip",
+    "size": 280136495,
+    "compressed": 280085787,
+    "crc32": "1b2be407"
+  },
+  {
+    "name": "FNL/JOURNAL-PROGRESS-2026-10-24.md",
+    "size": 1386,
+    "compressed": 760,
+    "crc32": "4caa8de8"
+  },
+  {
+    "name": "FNL/SUBMISSION-QUEUE.md",
+    "size": 7007,
+    "compressed": 2715,
+    "crc32": "7b77a0c6"
+  }
+]

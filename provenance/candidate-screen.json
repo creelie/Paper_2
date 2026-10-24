@@ -1,0 +1,960 @@
+[
+  {
+    "folder": "01 PolyaVinogradovLogLog",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/PolyaVinogradovLogLog-Annals-tex.zip",
+        "sha256": "b746b8ece39b1154ef1c6fe6f6d990c83e51237f6d2a09820eda006c79ea0451",
+        "tex_files": [
+          "PolyaVinogradovLogLog-Annals/pvloglog-annals.tex"
+        ],
+        "titles": [
+          "The P\\'olya--Vinogradov inequality with $\\log\\log q$}"
+        ],
+        "abstracts": [
+          "We prove that every primitive Dirichlet character $\\chi$ modulo $q\\ge3$ has character sums\n$\\sum_{n\\le x}\\chi(n)$ of size at most $C\\sqrt q\\log\\log q$, with an absolute constant $C$.\nMontgomery and Vaughan proved this bound under the generalised Riemann hypothesis, and Paley\nshowed that it is optimal. The only input from outside the paper is the zero-free half-plane\n$\\Re s>7/8$ for Dirichlet $L$-functions. On the major arcs this half-plane gives a power saving for\ntwisted prime sums; on the minor arcs we prove a weak form of the Montgomery--Vaughan bound for\nexponential sums with multiplicative coefficients, with Selberg's sieve as the only arithmetic\ninput. The same half-plane gives $|L'/L(1,\\chi)|\\ll\\log\\log q$ for every nonprincipal $\\chi$\nand, for every prime $q$, the two-sided bound\n$-C\\log q\\log\\log q\\le\\gamma_q\\le C\\log q$ for the Euler--Kronecker constant of the cyclotomic\nfield $\\mathbb Q(\\zeta_q)$."
+        ]
+      }
+    ],
+    "release": "# The P\u00f3lya\u2013Vinogradov inequality with log log q\n\n- Repository: https://github.com/creelie/Breakthrough-problems-3\n- Final release: v1.2.0, https://github.com/creelie/Breakthrough-problems-3/releases/tag/v1.2.0\n- Zenodo DOI of this release: 10.5281/zenodo.23563651 (https://doi.org/10.5281/zenodo.23563651)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23383715\n- Journal: Annals of Mathematics\n- Hexagon: hexagon:2610.00256v2 (under review), https://hexagonmath.org/2610.00256v2\n\nHexagon: version 3 of 2610.00256 (resubmission note in hexagon/).\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-Annals-v1.2.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "02 SYMSeveralTimes",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/sym-several-times-tex.zip",
+        "sha256": "af1eed3b36e98a2b924b9a550b78335b00229774d970b1999b08529903728d95",
+        "tex_files": [
+          "sym-several-times-tex/hexagon.tex",
+          "sym-several-times-tex/bib.tex",
+          "sym-several-times-tex/body.tex",
+          "sym-several-times-tex/abstract.tex",
+          "sym-several-times-tex/main.tex",
+          "sym-several-times-tex/preamble.tex"
+        ],
+        "titles": [
+          "Supersymmetric Yang--Mills theories with several times reduce to ten dimensions}",
+          "Supersymmetric Yang--Mills theories with several times reduce to ten dimensions}"
+        ],
+        "abstracts": [
+          "\\input{abstract}\n\n\\medskip\\noindent\\textit{Keywords:} Supersymmetric Gauge Theory, Extended Supersymmetry, Space-Time Symmetries, Field Theories in Higher Dimensions",
+          "Supersymmetric Yang--Mills theories in signatures with several times are built by restricting the gaugino to the kernel of $k$ mutually orthogonal null vectors and letting the supersymmetry close on translations contracted with their product. We prove that every theory of this kind, defined by five axioms that Nishino's construction satisfies, has residual dimension $s+t-2k$ equal to ten (or to two, a degenerate case), and that its null vectors can be real only if $k\\le\\min(s,t)$. The cubic fermion terms reduce to a Fierz identity on the residual spinors, and that identity forces the dimension of the spinors to be $2(d-2)$ on a $d$-dimensional vector space, which happens only for $d=3,4,6,10$. With Majorana--Weyl spinors the signature must therefore satisfy $s-t\\in\\{8,0,-8\\}$. There is no such theory in $(9+8n)+1$, $(10+8n)+2$, $(11+8n)+3$ or $(12+8n)+4$ for $n\\ge1$, although it has been claimed that the existence proofs for the signatures $(9+m)+(1+m)$ carry over to these; the signatures $27+3$ and $19+3$ are among those excluded. For a single time the result does not depend on the construction: in $(9+8n)+1$ with $n\\ge1$ every massless multiplet without tensor charges has at least $2^{2^{2+4n}}$ states, so a unitary theory with no tensor charges on its massless states has no massless vector multiplet."
+        ]
+      }
+    ],
+    "release": "# Supersymmetric Yang\u2013Mills theories with several times reduce to ten dimensions\n\n- Repository: https://github.com/creelie/cs-grav\n- Final release: v1.0.1, https://github.com/creelie/cs-grav/releases/tag/v1.0.1\n- Zenodo DOI of this release: 10.5281/zenodo.23559523 (https://doi.org/10.5281/zenodo.23559523)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23558750\n- Journal: Journal of High Energy Physics (SCOAP3)\n- Hexagon: hexagon:2610.00471v1 (under review), https://hexagonmath.org/2610.00471v1\n\nThe journal files were built for v1.0.0; v1.0.1 corrects Table 2 and is the final release.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JHEP-v1.0.1/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "03 KnotTables",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/knot-tables-tex.zip",
+        "sha256": "d49b774ee3d75a4abfd31bd492f3debfa9adf8dd9a935f7e05b967aebd1f0932",
+        "tex_files": [
+          "knot-tables.tex",
+          "bridge-generated.tex",
+          "crosscap-generated.tex"
+        ],
+        "titles": [
+          "The bridge index and the nonorientable four-genus of knots with at most thirteen crossings}"
+        ],
+        "abstracts": [
+          "We determine two invariants for knots that the KnotInfo database leaves open. KnotInfo lists\nthe bridge index of \\btotal{} prime knots with thirteen crossings as either $3$ or $4$; we\nprove that \\bclosed{} of them have bridge index and meridional rank $4$, so the meridional\nrank conjecture holds for them. The lower bound comes from representations of the knot\ngroup in $\\GL_4(\\F_q)$ that send a meridian to a transvection or a reflection and fix no\nnonzero vector. KnotInfo leaves the smooth nonorientable four-genus open for \\ntotal{}\nprime knots with eleven to thirteen crossings; we determine it for \\nsettled{} of them and\nnarrow the interval for \\nnarrowed{} more. Upper bounds come from pinch moves, lower bounds\nfrom the Goeritz-lattice obstructions of Jabuka and Kelly evaluated by an exhaustive search\nfor lattice embeddings. Every bound is a certificate checked by a program independent of\nthe search that found it."
+        ]
+      }
+    ],
+    "release": "# The bridge index and the nonorientable four-genus of knots with at most thirteen crossings\n\n- Repository: https://github.com/creelie/conjecture-to-choose\n- Final release: v1.3.0, https://github.com/creelie/conjecture-to-choose/releases/tag/v1.3.0\n- Zenodo DOI of this release: 10.5281/zenodo.23561157 (https://doi.org/10.5281/zenodo.23561157)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23521966\n- Journal: Journal of Knot Theory and Its Ramifications\n- Hexagon: hexagon:2610.00475v1 (under review), https://hexagonmath.org/2610.00475v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JKTR-v1.3.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "04 BraneGasUV",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/uv-finite-brane-gas-jhep-tex.zip",
+        "sha256": "7f93a9728f180e84ff683eaf8c381b085c39e9c8a5f7e199dd888c7ec04ba17e",
+        "tex_files": [
+          "uv-finite-brane-gas-jhep/uv-finite-brane-gas-jhep.tex"
+        ],
+        "titles": [
+          "Cancellation of all ultraviolet divergences of quantum gravity by a scale-invariant gas of branes$^{\\ast}$\\note[$\\ast$]{An earlier preprint by the same authors, \\textit{Ghosts in Poisson brane gases}, on the pole structure of the propagator averaged over the gas, appears at \\url{https://hexagonmath.org/2610.00342v1}~\\cite{BhattacharjeeBhattacharya2026}.}}"
+        ],
+        "abstracts": []
+      }
+    ],
+    "release": "# Cancellation of all ultraviolet divergences of quantum gravity by a scale-invariant gas of branes\n\n- Repository: https://github.com/creelie/brane-cluster-gases\n- Final release: v3.1.0, https://github.com/creelie/brane-cluster-gases/releases/tag/v3.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23524276 (https://doi.org/10.5281/zenodo.23524276)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.22866290\n- Journal: Journal of High Energy Physics (SCOAP3)\n- Hexagon: hexagon:2610.00342v2 (under review), https://hexagonmath.org/2610.00342v2\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JHEP-v3.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "05 HodgeDenseLoci",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/HodgeConjecture-tex.zip",
+        "sha256": "40d4932cdb5186e93be326a8a2082b73535d977f7d3e5f91bc9556f00d5209ce",
+        "tex_files": [
+          "HodgeConjecture_journal_tex/declarations.tex",
+          "HodgeConjecture_journal_tex/sec1_intro.tex",
+          "HodgeConjecture_journal_tex/appA_checks.tex",
+          "HodgeConjecture_journal_tex/main_journal.tex",
+          "HodgeConjecture_journal_tex/sec7_earlier.tex",
+          "HodgeConjecture_journal_tex/sec2_conventions.tex",
+          "HodgeConjecture_journal_tex/sec5_f3prime.tex",
+          "HodgeConjecture_journal_tex/bibliography.tex",
+          "HodgeConjecture_journal_tex/appB_derivations.tex",
+          "HodgeConjecture_journal_tex/sec6_f2.tex",
+          "HodgeConjecture_journal_tex/sec4_loci.tex",
+          "HodgeConjecture_journal_tex/sec3_reduction.tex",
+          "HodgeConjecture_journal_tex/sec8_status.tex"
+        ],
+        "titles": [
+          "Dense Algebraic Loci of Hodge Classes}"
+        ],
+        "abstracts": [
+          "\\itshape\nWe prove unconditionally that the Hodge conjecture is equivalent to two statements about abelian varieties, that the locus on which either statement holds is dense in every family and is either the whole family or a meagre set, that the real multiplications by $\\sqrt6$ and by the cubic fields $\\QQ(\\zeta_{7})^{+}$ and $\\QQ(\\zeta_{9})^{+}$ are algebraic on explicit families of K3 surfaces, the cubic ones on the surfaces of Mumford type whose quaternion algebra is ramified at two real places, and that the Hodge conjecture holds on every power and every Hilbert scheme of points of the K3 surfaces of the one-dimensional Fricke families of levels $5$ and $7$, which carry complex multiplication by $\\QQ(\\sqrt{-5})$ and $\\QQ(\\sqrt{-7})$. For each of the two statements we build the object it needs next, a complex on a product of two Weil fourfolds and a class on an abelian fourteenfold, prove what it does, and prove at which step it stops; among the steps, every convolution of the Weil line bundles on $E_{0}^{8}$ whose shifts lie in seven consecutive integers fails the polarised criterion in eighteen of the twenty-eight arrangements of the shifts, an explicit curve of genus four makes the Prym map of cyclic triple covers \\'etale onto the Weil domain of $\\QQ(\\sqrt{-3})$, and the conjecture for a class is equivalent to the vanishing of the mass gap of a multiple of it plus a complete intersection, which Koll\\'ar's hypersurfaces show cannot be dropped for integral classes. Both statements remain open."
+        ]
+      }
+    ],
+    "release": "# Dense Algebraic Loci of Hodge Classes\n\n- Repository: https://github.com/creelie/fermat-hodge-\n- Final release: v2.7.0, https://github.com/creelie/fermat-hodge-/releases/tag/v2.7.0\n- Zenodo DOI of this release: 10.5281/zenodo.23564665 (https://doi.org/10.5281/zenodo.23564665)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23439577\n- Journal: Mathematische Zeitschrift\n- Hexagon: hexagon:2610.00315v2 (under review), https://hexagonmath.org/2610.00315v2\n\nRelease v2.7.0 was published on 22 October 2026 from the release workflow. The paper itself cites the GitHub release, as Deep asked on 21 October. Hexagon: version 2 of 2610.00315.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-MZ-v2.7.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "06 LehmerTotient",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/lehmer-totient-journal-tex.zip",
+        "sha256": "7591e7bd135c1388f2175ba4d2fa32c615cdf3f56a6bfee4e23f1d77a0b1b4b1",
+        "tex_files": [
+          "lehmer-totient-journal/journal.tex"
+        ],
+        "titles": [],
+        "abstracts": [
+          "A composite number $n$ whose totient divides $n-1$ was known to have at\nleast fourteen prime factors. We prove that it has at least sixteen,\nat least $16001$ if $(n-1)/\\varphi(n)\\ge3$, and more than $10^8$ if\n$3\\mid n$, and that $n<2^{2^{k-7}}$ if $n$ has $k$ prime factors. For\nthe companion equation $\\varphi(n)\\mid n+1$ we show that the nine known\nsolutions are the only ones with at most eight prime factors, and that\na further solution prime to $3$ has at least sixteen. Each\nstatement is reduced by hand to a finite computation, which independent\nprograms carry out. Lehmer's conjecture remains open, and we state the\nassertion that would settle it."
+        ]
+      }
+    ],
+    "release": "# Lehmer's totient problem with fewer than sixteen prime factors\n\n- Repository: https://github.com/creelie/eLhmr\n- Final release: v1.4.0, https://github.com/creelie/eLhmr/releases/tag/v1.4.0\n- Zenodo DOI of release v1.4.0: 10.5281/zenodo.23566520 (https://doi.org/10.5281/zenodo.23566520)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23243779\n- Journal: International Journal of Number Theory (fallback Ramanujan Journal)\n- Hexagon: hexagon:2610.00454v1 (under review), https://hexagonmath.org/2610.00454v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-IJNT-v1.4.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "07 DworkGenerations",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/DworkGenerations-tex.zip",
+        "sha256": "2b2d11e080b7580341e8a6a2b1001f36933f2efeef073c93d423f5521e8d7996",
+        "tex_files": [
+          "DworkGenerations/main.tex"
+        ],
+        "titles": [
+          "Which String Vibrations Become Which Generations on the Dwork Quintic}"
+        ],
+        "abstracts": [
+          "We determine, for the heterotic string on the one-parameter family of\nquintic threefolds, which vibration modes become which families of charged\nparticles. The hundred and one families are labelled by the characters of a\nsymmetry group of order one hundred and twenty-five. Every Yukawa coupling\nthat this symmetry allows is a power of the modulus, and every other\ncoupling vanishes. The invariant deformation pairs each family with exactly\none partner, so that fifty families are massless at the Fermat point and\nnone anywhere else, and at the Fermat point the masses are given in closed\nform by the Gamma function. On the three other one-parameter families of\nthe same type, in weighted projective spaces, the symmetry no longer tells\nthe families apart and some families stay massless at every member. We\nalso prove that the Geometric Selection Conjecture is equivalent to the\nexistence of one viable vacuum fixed by mirror symmetry, and that a free\nquotient of a Calabi--Yau complete intersection of any of the thirteen\none-parameter hypergeometric types never carries three families with the\nstandard embedding; on seven of these types, among them the sextic and\ndectic pencils, no finite group acts freely at all."
+        ]
+      }
+    ],
+    "release": "# Which String Vibrations Become Which Generations on the Dwork Quintic\n\n- Repository: https://github.com/creelie/strings\n- Final release: v1.2.0, https://github.com/creelie/strings/releases/tag/v1.2.0\n- Zenodo DOI of this release: 10.5281/zenodo.23539477 (https://doi.org/10.5281/zenodo.23539477)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23480310\n- Journal: Communications in Number Theory and Physics\n- Hexagon: hexagon:2610.00446v1 (under review), https://hexagonmath.org/2610.00446v1\n\nHexagon: 2610.00446v1.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-CNTP-v1.2.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "08 ReflexiveDescent",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/ReflexiveDescent-tex.zip",
+        "sha256": "800dbb8acd09cf8a8b3975b120acdde8e2e9de12c02fb43b86453292059bd357",
+        "tex_files": [
+          "ReflexiveDescent/main.tex"
+        ],
+        "titles": [
+          "Reflexive Descent to Minimal Seeds in the Kreuzer--Skarke List}"
+        ],
+        "abstracts": [
+          "Kreuzer and Skarke built the list of reflexive polytopes by growing it\nfrom small seed polytopes. We ask how far a polytope can be from its seeds\nwhen it is shrunk through reflexive polytopes only, one at a time and\nwithout skipping any. Such a descent always exists and always ends at a\nseed. In four dimensions no descent takes more than 348 steps, which\nproves the conjecture of a uniform transition depth, and in two and three\ndimensions the exact maxima are five and eleven. In four dimensions two\npolytopes with thirty-seven lattice points need exactly twenty-two steps, so\nthe maximum lies between twenty-two and 348."
+        ]
+      }
+    ],
+    "release": "# Reflexive Descent to Minimal Seeds in the Kreuzer\u2013Skarke List\n\n- Repository: https://github.com/creelie/seed\n- Final release: v1.2.0, https://github.com/creelie/seed/releases/tag/v1.2.0\n- Zenodo DOI of this release: 10.5281/zenodo.23539317 (https://doi.org/10.5281/zenodo.23539317)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23483239\n- Journal: Advances in Theoretical and Mathematical Physics\n- Hexagon: hexagon:2610.00456v1 (under review), https://hexagonmath.org/2610.00456v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-ATMP-v1.2.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "09 YangMillsForestGauge",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/YangMillsForestGauge-tex.zip",
+        "sha256": "5f2759298a1f61d272c9ed2553eb57e4bdf0c21114cb8e41b81dc723de5c9761",
+        "tex_files": [
+          "YangMillsForestGauge/main.tex"
+        ],
+        "titles": [
+          "Mass Gap of"
+        ],
+        "abstracts": [
+          "\\itshape\nWe fix the gauge of four-dimensional lattice Yang--Mills theory on a field\nof straight lines that meets every plaquette in exactly one link, so that\neach free link interacts with twelve others instead of eighteen. In this\ngauge the theory has a unique infinite-volume state with exponential decay\nof correlations and a positive mass gap at fixed lattice spacing, for SU(2)\nbeyond the limit of every single-link argument in a gauge of this kind, by\nblocks made of the three free links of a plaquette, for\nevery SU(N) beyond the curvature limit of the ungauged theory, and for SU(3)\non a range more than two and a half times as large as was known before,\nwhere the same blocks raise the gap at the end of that range by two orders\nof magnitude and carry the range past it to $\\beta_W=0.76$."
+        ]
+      }
+    ],
+    "release": "# Mass Gap of Four-Dimensional Lattice Yang\u2013Mills Theory in a Forest Gauge\n\n- Repository: https://github.com/creelie/4Y-M\n- Final release: v3.4.0, https://github.com/creelie/4Y-M/releases/tag/v3.4.0\n- Zenodo DOI of this release: 10.5281/zenodo.23541099 (https://doi.org/10.5281/zenodo.23541099)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23444338\n- Journal: Communications in Mathematical Physics\n- Hexagon: hexagon:2610.00341v2 (under review), https://hexagonmath.org/2610.00341v2\n\nHexagon: version 2 of 2610.00341.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-CMP-v3.4.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "10 BLLM",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/BLLM_JAIR-source.zip",
+        "sha256": "c142f423089562bb595ac8e1ea04684e22e2324762cc264b4e08f3202500295d",
+        "tex_files": [
+          "BLLM_JAIR/sections/sec03_model.tex",
+          "BLLM_JAIR/sections/sec08c_agents.tex",
+          "BLLM_JAIR/sections/appJ_checklist.tex",
+          "BLLM_JAIR/sections/appA_derivations.tex",
+          "BLLM_JAIR/sections/appB_checks.tex",
+          "BLLM_JAIR/sections/declarations.tex",
+          "BLLM_JAIR/sections/sec09_branching.tex",
+          "BLLM_JAIR/sections/sec04_entropy.tex",
+          "BLLM_JAIR/sections/sec10d_crossing.tex",
+          "BLLM_JAIR/sections/sec10f_hodge.tex",
+          "BLLM_JAIR/sections/appD_sources.tex",
+          "BLLM_JAIR/sections/gen_releases.tex",
+          "BLLM_JAIR/sections/sec12b_brain.tex",
+          "BLLM_JAIR/sections/sec10h_selfmod.tex",
+          "BLLM_JAIR/sections/sec08e_brains.tex",
+          "BLLM_JAIR/sections/sec01_intro.tex",
+          "BLLM_JAIR/sections/sec10e_memory.tex",
+          "BLLM_JAIR/sections/sec11_status.tex",
+          "BLLM_JAIR/sections/sec10c_headline.tex",
+          "BLLM_JAIR/sections/sec02b_related.tex",
+          "BLLM_JAIR/sections/gen_numbers.tex",
+          "BLLM_JAIR/sections/sec07_chains.tex",
+          "BLLM_JAIR/sections/sec10_scaling.tex",
+          "BLLM_JAIR/sections/sec08d_gap.tex",
+          "BLLM_JAIR/sections/sec10i_seed.tex",
+          "BLLM_JAIR/sections/sec05_huffman.tex",
+          "BLLM_JAIR/sections/bibliography.tex",
+          "BLLM_JAIR/sections/sec02_history.tex",
+          "BLLM_JAIR/sections/sec12_network.tex",
+          "BLLM_JAIR/sections/gen_modlog.tex",
+          "BLLM_JAIR/sections/sec10g_construct.tex",
+          "BLLM_JAIR/sections/sec09b_towers.tex",
+          "BLLM_JAIR/sections/sec08b_online.tex",
+          "BLLM_JAIR/sections/appD_sources_table.tex",
+          "BLLM_JAIR/sections/sec10c_benchmark.tex",
+          "BLLM_JAIR/sections/sec10b_cases.tex",
+          "BLLM_JAIR/sections/sec08_singularity.tex",
+          "BLLM_JAIR/sections/appC_hardware.tex",
+          "BLLM_JAIR/sections/sec06_renyi.tex",
+          "BLLM_JAIR/sections/sec10d_experiments.tex",
+          "BLLM_JAIR/main_jair.tex"
+        ],
+        "titles": [
+          "BLLM: Beyond the LLM with Deep Human-Mind-AI}"
+        ],
+        "abstracts": [
+          "{\\bf Background:}\nA system that improves itself keeps every change that passes a check, so a check that makes errors lets mistakes pile up. How much checking keeps such a system sound has not been computed.\n\n{\\bf Objectives:}\nWe compute the least checking that keeps a self-improving system sound, the least number of guesses a proposer needs before a right one appears, and the cost of stacking checked layers, and we build an engine on these laws.\n\n{\\bf Methods:}\nWe prove the bounds in a model of repeated random checks, check their finite inequalities in Lean~4, and build Anaxia, an engine that combines human constructions, a shared memory, a mode that builds new objects together with the argument for what they force, stacked layers, and a loop that changes one of its own rules after each attempt that fails.\n\n{\\bf Results:}\nThe least checking is an entropy of the costs of the changes, and an endless chain of improvements stays sound at finite cost exactly when that entropy is finite. A stack of checked layers costs more than its layers would cost alone. Human authors come close to the least number of guesses, and nine language models need $1.5$ to $4.3$ times as many. Memory halves the checks the engine needs. From the rules of a colouring problem alone, the engine rebuilt the published 2016 counterexample to Steinberg's conjecture. It proved a conjecture on the four-dimensional reflexive polytopes behind Calabi--Yau threefolds: shrunk one reflexive polytope at a time, each of them reaches a seed in at most $\\seedBound$ steps.\n\n{\\bf Conclusions:}\nThe price of soundness is an entropy, and it can be computed. The engine is a work in progress, and its rules and search are being revised and extended for the open problems it has not yet settled."
+        ]
+      }
+    ],
+    "release": "# BLLM: Beyond the LLM with Deep Human-Mind-AI\n\n- Repository: https://github.com/creelie/eBLLM\n- Final release: v3.2.1, https://github.com/creelie/eBLLM/releases/tag/v3.2.1\n- Zenodo DOI of this release: 10.5281/zenodo.23524945 (https://doi.org/10.5281/zenodo.23524945)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23286641\n- Journal: Journal of Artificial Intelligence Research\n- Hexagon: hexagon:2610.00382v1 (published), https://hexagonmath.org/2610.00382v1\n\nHexagon: version 2 of 2610.00382. The engine has later releases (v3.4.0, DOI 10.5281/zenodo.23559351); v3.2.1 is the release the paper describes.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JAIR-v3.2.1/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "11 MirrorClauseGSC",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/11 MirrorClauseGSC/journal-package-LMP-v1.0.0/MirrorClauseGSC-tex.zip",
+        "sha256": "fcd55873586acb2f23f050e36812eace64009f46fa0401cb11bb517dee9c5363",
+        "tex_files": [
+          "main.tex"
+        ],
+        "titles": [
+          "The Mirror Clause of the Geometric Selection Conjecture Is Empty}"
+        ],
+        "abstracts": [
+          "The Geometric Selection Conjecture asks for a functional on the heterotic\nlandscape, built from the Weil--Petersson metric and invariant under mirror\nsymmetry, whose unique minimum is a phenomenologically viable vacuum. It was\nshown in our paper on the Dwork quintic that the functional carries no\ninformation beyond its minimum: the conjecture holds if and only if there is a\nviable vacuum fixed by the mirror involution wherever that involution is\ndefined. We prove that the fixed-point clause is never satisfied. A vacuum fixed\nby the mirror involution has a threefold isomorphic to its own mirror, hence\nequal Hodge numbers $h^{1,1}=h^{2,1}$, vanishing Euler number and, on its\ncomponent of the landscape, a bundle with $c_3=0$; its net number of families is\ntherefore zero and it violates the three-family condition. Consequently no\nvacuum built on the tangent bundle of any Calabi--Yau threefold, or on any\ndeformation of it, can be selected, and the conjecture is equivalent to the\nbare statement that one viable vacuum exists on a component of the landscape\nnot of standard-embedding type, with no condition involving mirror\nsymmetry. The same holds when invariance under any compact group of\nisometries containing the mirror involution is demanded. The existence\nstatement itself remains open."
+        ]
+      }
+    ],
+    "release": "# The Mirror Clause of the Geometric Selection Conjecture Is Empty\n\n- Repository: https://github.com/creelie/geometric-selection-conjecture\n- Final release: v1.0.1, https://github.com/creelie/geometric-selection-conjecture/releases/tag/v1.0.1 (the paper and its packages cite v1.0.0, https://github.com/creelie/geometric-selection-conjecture/releases/tag/v1.0.0; v1.0.1 carries the same paper and code and is the release Zenodo archived)\n- Zenodo DOI of release v1.0.1: 10.5281/zenodo.23567115 (https://doi.org/10.5281/zenodo.23567115)\n- Journal: Letters in Mathematical Physics\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-LMP-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "12 BookRamsey58",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/book-ramsey-58-tex.zip",
+        "sha256": "4d3805b7e5b2348a650bf39b328d68b1d3f987fb0b64d362a6f1b16199ea87ac",
+        "tex_files": [
+          "main.tex"
+        ],
+        "titles": [
+          "The book Ramsey number $R(B_{57},B_{58})=231$}"
+        ],
+        "abstracts": [
+          "We construct a graph on $230$ vertices with no book $B_{57}$ whose complement contains no $B_{58}$. With the upper bound of Rousseau and Sheehan this gives $R(B_{57},B_{58})=231$, the smallest case of Wesley's conjecture $R(B_{n-1},B_n)=4n-1$ that was open. The graph is a two-block circulant graph over $\\Z_{115}$, and the proof reduces to $57$ inequalities."
+        ]
+      }
+    ],
+    "release": "# The book Ramsey number R(B_57, B_58) = 231\n\n- Repository: https://github.com/creelie/Breakthrough-problems-2\n- Final release: v2.1.0, https://github.com/creelie/Breakthrough-problems-2/releases/tag/v2.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23539821 (https://doi.org/10.5281/zenodo.23539821)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23373628\n- Journal: Discrete Mathematics\n- Hexagon: hexagon:2610.00455v1 (under review), https://hexagonmath.org/2610.00455v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DM-v2.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "13 GhostsBraneGases",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/13 GhostsBraneGases/journal-package-PRD-v3.3.0/GhostsBraneGases-tex.zip",
+        "sha256": "9bfa992fb58411999f24a36b88764bc3dc7498325fc54a3b09d2ad450a54b21a",
+        "tex_files": [
+          "GhostsBraneGases-tex/main.tex"
+        ],
+        "titles": [
+          "Ghosts in Poisson Brane Gases}"
+        ],
+        "abstracts": [
+          "\\itshape\nA Poisson gas of branes with mass intensity $\\nu$ dresses the graviton\npropagator by the random entire function $\\prod_k(1+p^2/t_k)$. We prove that\nthe gas average of the propagator equals\n$p^{-2}\\exp[-\\int p^2\\nu(\\dd t)/(p^2+t)]$, so that the massive states carry\ntotal weight $e^{-\\nu(0,\\infty)}-1<0$. For $\\nu=\\lambda(t)\\,\\dd t/t$ the\naveraged spectrum consists of ghosts alone exactly when $\\lambda\\le1$, and\nevery average with a finite four-dimensional tadpole has states of both\nsigns. Frozen gases keep alternating residues.\n\\par\\medskip\\upshape\\noindent\n\\textit{2020 Mathematics Subject Classification.} Primary 81T15, 60G55;\nSecondary 30D15, 44A15, 30E25, 83C45."
+        ]
+      }
+    ],
+    "release": "# Ghosts in Poisson Brane Gases\n\n- Repository: https://github.com/creelie/brane-cluster-gases\n- Final release: v3.3.0, https://github.com/creelie/brane-cluster-gases/releases/tag/v3.3.0\n- Zenodo DOI of this release: 10.5281/zenodo.23540891 (https://doi.org/10.5281/zenodo.23540891)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.22866290\n- Journal: Physical Review D (SCOAP3)\n- Hexagon: hexagon:2610.00342v1 (published; version 2 of the record is the brane gas paper of folder 04), https://hexagonmath.org/2610.00342v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-PRD-v3.3.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "14 Sl2WeightSystemAtMinus3Over32",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/journal-package-EJC-v2.1.0/Sl2WeightSystemAtMinus3Over32_final2-tex.zip",
+        "sha256": "8fe82263a6362980d5f79f73c04fa2fa8d1f61428294e468177b9e7c677dc009",
+        "tex_files": [
+          "Sl2WeightSystemAtMinus3Over32_final2-tex/main.tex"
+        ],
+        "titles": [
+          "The \\texorpdfstring{$\\mathfrak{sl}(2)$}{sl(2)} weight system at \\texorpdfstring{$c=-3/32$}{c=-3/32} extends to a graph 4-invariant}"
+        ],
+        "abstracts": [
+          "We prove unconditionally the conjecture of Fomichev, Karev, Pavutnitskiy and Usanov that the specialization of the $\\mathfrak{sl}(2)$ weight system at $c=-3/32$ extends to a $4$-invariant of graphs. The extension is $\\xi(G)=(-32)^{-n}S_G(-2)$, where $S_G(N)$ counts with signs the assignments of $2$-element subsets of $\\{1,\\dots,N\\}$ to the $n$ vertices of $G$."
+        ]
+      }
+    ],
+    "release": "# The sl(2) weight system at c=\u22123/32 extends to a graph 4-invariant\n\n- Repository: https://github.com/creelie/automatic-memory\n- Final release: v2.1.0, https://github.com/creelie/automatic-memory/releases/tag/v2.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23541142 (https://doi.org/10.5281/zenodo.23541142)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23312529\n- Journal: European Journal of Combinatorics\n- Hexagon: hexagon:2610.00320v1 (published), https://hexagonmath.org/2610.00320v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v2.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "15 GolombWelchRadiusThree",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/15 GolombWelchRadiusThree/journal-package-JCTA-v1.1.0/GolombWelchRadiusThree_final2-tex.zip",
+        "sha256": "8b3d33655b7b5093e129ca179932106ff91b0199355b93c66aa05f11bf9dd4cc",
+        "tex_files": [
+          "GolombWelchRadiusThree_final2-tex/main.tex"
+        ],
+        "titles": [
+          "No lattice tiling of $\\mathbb{Z}^{35}$ or $\\mathbb{Z}^{805}$ by Lee balls of radius three}"
+        ],
+        "abstracts": [
+          "We prove that there is no lattice tiling of $\\mathbb{Z}^{35}$ or of $\\mathbb{Z}^{805}$ by Lee balls of radius three. These were the only cases left open by Xiao and Zhou among the Lee balls of dimension at least three and radius at least two with fewer than $2^{30}$ points, so the lattice Golomb--Welch conjecture holds for all of them."
+        ]
+      }
+    ],
+    "release": "# No lattice tiling of Z^35 or Z^805 by Lee balls of radius three\n\n- Repository: https://github.com/creelie/refactored-waddle\n- Final release: v1.1.0, https://github.com/creelie/refactored-waddle/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23540940 (https://doi.org/10.5281/zenodo.23540940)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23398804\n- Journal: Journal of Combinatorial Theory, Series A\n- Hexagon: hexagon:2610.00317v1 (published), https://hexagonmath.org/2610.00317v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JCTA-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "16 Kourovka2071b",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/16 Kourovka2071b/journal-package-DM-v2.1.0/Kourovka2071b_final2-tex.zip",
+        "sha256": "7df151d8960fa4c810fcb955e60133cde5c7f588b2ca6c41d6eca4eed6fa3ba3",
+        "tex_files": [
+          "Kourovka2071b_final2-tex/main.tex"
+        ],
+        "titles": [
+          "A graph with three card types and five vertex orbits}"
+        ],
+        "abstracts": [
+          "We prove that the answer to part~(b) of Problem~20.71 of the Kourovka Notebook is yes: there is a connected graph on $63$ vertices with exactly three isomorphism types of vertex-deleted subgraphs whose automorphism group has five orbits on the vertices. The graph is a Cayley graph of a Suzuki $2$-group of order $64$ with one vertex removed."
+        ]
+      }
+    ],
+    "release": "# A graph with three card types and five vertex orbits\n\n- Repository: https://github.com/creelie/urban-chainsaw\n- Final release: v2.1.0, https://github.com/creelie/urban-chainsaw/releases/tag/v2.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23541144 (https://doi.org/10.5281/zenodo.23541144)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23339830\n- Journal: Discrete Mathematics\n- Hexagon: hexagon:2610.00318v1 (published), https://hexagonmath.org/2610.00318v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DM-v2.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "17 OddAntiholeConjecture",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/17 OddAntiholeConjecture/journal-package-JGT-v1.1.0/OddAntiholeConjecture_final2-tex.zip",
+        "sha256": "345c62ca4905f4a0ada39f76999427baa22838fff606e84575225211d4acbb3a",
+        "tex_files": [
+          "OddAntiholeConjecture_final2-tex/main.tex"
+        ],
+        "titles": [
+          "Every odd antihole is strongly chromatic-choosable}"
+        ],
+        "abstracts": [
+          "We prove the complete Fiujlaali--McDonald conjecture on odd antiholes unconditionally: for every $\\ell\\ge3$ the only assignments of $(\\ell-1)$-element lists from which the odd antihole $\\cbar{2\\ell-1}$ cannot be coloured are the constant ones. Consequently, an odd-hole-free $k$-critical graph of maximum degree $\\Delta$ containing an odd antihole of length $2(\\Delta-k)+7$ is that antihole."
+        ]
+      }
+    ],
+    "release": "# Every odd antihole is strongly chromatic-choosable\n\n- Repository: https://github.com/creelie/odd-antihole\n- Final release: v1.1.0, https://github.com/creelie/odd-antihole/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23541224 (https://doi.org/10.5281/zenodo.23541224)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23393860\n- Journal: Journal of Graph Theory\n- Hexagon: hexagon:2610.00319v1 (published), https://hexagonmath.org/2610.00319v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JGT-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "18 GurvichNaumovaConjecture",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/journal-package-DM-v2.2.0/GurvichNaumovaConjecture_final2-tex.zip",
+        "sha256": "ebcba73937f57fa0e5974cd36e55eb023ac9fbe779bc442550121cab93d0f862",
+        "tex_files": [
+          "GurvichNaumovaConjecture_final2-tex/main.tex"
+        ],
+        "titles": [
+          "Partitioning \\texorpdfstring{$\\{1,\\dots,n\\}$}{\\{1,...,n\\}} into parts of size at most three whose sums are powers of three}"
+        ],
+        "abstracts": [
+          "We prove unconditionally the conjecture of Gurvich and Naumova that for every $n\\ge1$ the set $\\{1,\\dots,n\\}$ can be partitioned into parts of at most three elements whose sums are powers of $3$. The partition is given by an explicit recursion."
+        ]
+      }
+    ],
+    "release": "# Partitioning {1,\u2026,n} into parts of size at most three whose sums are powers of three\n\n- Repository: https://github.com/creelie/didactic-lamp\n- Final release: v2.2.0, https://github.com/creelie/didactic-lamp/releases/tag/v2.2.0\n- Zenodo DOI of this release: 10.5281/zenodo.23541141 (https://doi.org/10.5281/zenodo.23541141)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23316376\n- Journal: Discrete Mathematics\n- Hexagon: hexagon:2610.00364v1 (published), https://hexagonmath.org/2610.00364v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DM-v2.2.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "19 WelchSumFree",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/welch-third-order-sum-free-tex.zip",
+        "sha256": "874777c64a978d52ff3ab0332349d2fbf0c9f10c96b79af43a7a072d124b2335",
+        "tex_files": [
+          "welch-third-order-sum-free/main.tex"
+        ],
+        "titles": [
+          "The Welch function is not third-order sum-free}"
+        ],
+        "abstracts": [
+          "Let $n=2m+1$. Hou and Zhao conjectured that for $n\\ge7$ the Welch function $X^{2^m+3}$ on $\\F_{2^n}$ sums to zero over some three-dimensional affine subspace, that is, it is not third-order sum-free. We prove this. The proof counts exactly the elements $x$ for which some subspace spanned by $1$, $x$ and a third element gives a zero sum: there are $(2^n+1-3K_n)/4$ of them, where $K_n$ is a binary Kloosterman sum."
+        ]
+      }
+    ],
+    "release": "# The Welch function is not third-order sum-free\n\n- Repository: https://github.com/creelie/eConjectureWelchSumFree\n- Final release: v1.1.0, https://github.com/creelie/eConjectureWelchSumFree/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23553010 (https://doi.org/10.5281/zenodo.23553010)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23553009\n- Journal: Finite Fields and Their Applications\n- Hexagon: hexagon:2610.00472v1 (under review), https://hexagonmath.org/2610.00472v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-FFA-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "20 ShankarLatticePathsCatalan",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/even-lattice-paths-catalan-tex.zip",
+        "sha256": "379371bb046dc0715cc2b83412ea866ae8cd3c012b9f0753ed3fb66560a6adb7",
+        "tex_files": [
+          "even-lattice-paths-catalan/main.tex"
+        ],
+        "titles": [
+          "Even-intersecting families of lattice paths and the Catalan numbers}"
+        ],
+        "abstracts": [
+          "Shankar proved that a family of North--East lattice paths from $(0,0)$ to $(n,n)$ in which any two paths share an even number of edges has at most $2^n$ members, and conjectured that exactly $C_n$ families attain this bound, where $C_n$ is the $n$th Catalan number. We prove the conjecture. The proof determines all equality cases of the inequality behind Shankar's bound: they correspond to noncrossing partial matchings of $\\{1,\\dots,m\\}$ whose unmatched points lie under no arc, and there are $\\binom{m}{\\lfloor m/2\\rfloor}$ of them."
+        ]
+      }
+    ],
+    "release": "# Even-intersecting families of lattice paths and the Catalan numbers\n\n- Repository: https://github.com/creelie/eConjecturePrimitiveTrinomial\n- Final release: v1.1.0, https://github.com/creelie/eConjecturePrimitiveTrinomial/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23552911 (https://doi.org/10.5281/zenodo.23552911)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23281333\n- Journal: Electronic Journal of Combinatorics\n- Hexagon: hexagon:2610.00474v1 (under review), https://hexagonmath.org/2610.00474v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "21 SimpsonCircularAbelianSquares",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/journal-package-EJC-v2.1.0/circular-abelian-squares-tex.zip",
+        "sha256": "8d4db0b80837cc2410cf988078caa986265c26f16d301b495982ba030d02bc39",
+        "tex_files": [
+          "SimpsonCircularAbelianSquares_final2-tex/main.tex"
+        ],
+        "titles": [
+          "The minimum number of distinct abelian squares in a binary circular word}"
+        ],
+        "abstracts": [
+          "We prove that every binary circular word of length $n$ contains at least $\\fl{(n-1)/2}$ distinct abelian squares, and we determine all words attaining this bound. This settles a conjecture of Simpson: its odd case holds, and in its even case the list of extremal words misses $(ab)^{n/2}$ for $n\\equiv 2\\pmod 4$, $n\\ge 6$."
+        ]
+      }
+    ],
+    "release": "# The minimum number of distinct abelian squares in a binary circular word\n\n- Repository: https://github.com/creelie/literate-octo-lamp\n- Final release: v2.1.0, https://github.com/creelie/literate-octo-lamp/releases/tag/v2.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23553002 (https://doi.org/10.5281/zenodo.23553002)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23313258\n- Journal: Electronic Journal of Combinatorics\n- Hexagon: hexagon:2610.00473v1 (under review), https://hexagonmath.org/2610.00473v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v2.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "22 TauMaximalGraphs",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/tau-maximal-graphs-tex.zip",
+        "sha256": "c8ad1f2260815fdbf7bfdc493f1ef79f60db8d053c963dcb8ca58c5fa7bba268",
+        "tex_files": [
+          "tau-maximal-graphs/main.tex"
+        ],
+        "titles": [
+          "All \\texorpdfstring{$\\tau_{\\lowercase{k}}$}{tau\\_k}-maximal graphs have the same size}"
+        ],
+        "abstracts": [
+          "A graph is $\\tau_k$-maximal if none of its subgraphs has $k+1$ edge-disjoint spanning trees, but adding any missing edge creates such a subgraph. Wang and Tian conjectured that every $\\tau_k$-maximal graph on $n\\ge 2k+2$ vertices has exactly $(k+1)(n-1)-1$ edges. We prove this conjecture."
+        ]
+      }
+    ],
+    "release": "# All \u03c4_k-maximal graphs have the same size\n\n- Repository: https://github.com/creelie/eConjectureTauMaximal\n- Final release: v1.1.0, https://github.com/creelie/eConjectureTauMaximal/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23552993 (https://doi.org/10.5281/zenodo.23552993)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23552991\n- Journal: Discrete Applied Mathematics\n- Hexagon: hexagon:2610.00459v1 (under review), https://hexagonmath.org/2610.00459v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DAM-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "23 AndreanovKallusD5",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/23 AndreanovKallusD5/journal-package-DCG-v2.0.0/AndreanovKallusTwoPeriodicPackingD5_final2-tex.zip",
+        "sha256": "6ca586dad5127f33cdffc6ebea4e5139b2aaf9cc21ba210539b0bf18d703a003",
+        "tex_files": [
+          "AndreanovKallusTwoPeriodicPackingD5_final2-tex/main.tex"
+        ],
+        "titles": [
+          "Densest packings of two translates\\\\ of a lattice in five dimensions}"
+        ],
+        "abstracts": [
+          "We prove that no packing of unit balls in $\\R^5$ whose centres form two translates of a lattice is denser than the $D_5$ lattice packing. Up to congruence exactly three such packings attain this density: $\\sqrt2\\,D_5$, a layered packing of Leech, and the packing with Sz\u00f6ll\u0151si's kissing configuration."
+        ]
+      }
+    ],
+    "release": "# Densest packings of two translates of a lattice in five dimensions\n\n- Repository: https://github.com/creelie/D5\n- Final release: v2.0.0, https://github.com/creelie/D5/releases/tag/v2.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23387908 (https://doi.org/10.5281/zenodo.23387908)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23323366\n- Journal: Discrete & Computational Geometry\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DCG-v2.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "24 Erdos1183UnionClosedFamilies",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/journal-package-EJC-v5/Erdos1183-tex.zip",
+        "sha256": "b40f0ced3f46c57f92757848d7e7f28c085a6c58a4e9cb3ea48206329233a887",
+        "tex_files": [
+          "Erdos1183-tex/Erdos.tex"
+        ],
+        "titles": [
+          "Resolving"
+        ],
+        "abstracts": [
+          "We prove both Erd\\H{o}s--Ulam conjectures on monochromatic union-closed\nfamilies. Every two-colouring of the subsets of a finite set contains a\nmonochromatic union-closed family whose size grows faster than any fixed\npower of the size of the set, while suitable colourings admit no\nmonochromatic union-closed family of exponential size. Both results hold\nfor any number of colours. For sublattices the forced size exceeds the\nchain bound and is determined up to a logarithmic factor. Every theorem\nis checked in Lean."
+        ]
+      }
+    ],
+    "release": "# Resolving Erd\u0151s\u2013Ulam Monochromatic Union-Closed Family Conjectures\n\n- Repository: https://github.com/creelie/Erdos-1183\n- Final release: v5, https://github.com/creelie/Erdos-1183/releases/tag/v5\n- Zenodo DOI of this release: 10.5281/zenodo.23374973 (https://doi.org/10.5281/zenodo.23374973)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23050879\n- Journal: Electronic Journal of Combinatorics\n\nThe paper text cites release v2.1.1 (DOI 10.5281/zenodo.23288724); v5 (14 October 2026) is the final release.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v5/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "25 ErdosStrausExceptionalSet",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/journal-package-JNT-v3.1.0/ErdosStrausExceptionalSet_JNT-tex.zip",
+        "sha256": "d616ed3543c1f16459741c0af8e260172bb06895063c1f238b138f4d82e9108f",
+        "tex_files": [
+          "ErdosStrausExceptionalSet_JNT-tex/main.tex"
+        ],
+        "titles": [
+          "An explicit exponent for the exceptional set of the Erd\\H{o}s--Straus equation}"
+        ],
+        "abstracts": [
+          "\\itshape\nThe Erd\\H{o}s--Straus conjecture says that four divided by any integer greater than one is a sum of three unit fractions. In 1970 Vaughan showed that the integers up to $N$ for which this fails are few: their number is at most $N$ times the exponential of minus a positive constant times the two-thirds power of $\\log N$, and his argument gives no value of the constant. We prove this bound with an explicit constant, given by an integral whose value is $0.6792$ and which a computation with directed rounding proves to exceed $0.67916$. The residue classes we sieve with include classes to moduli beyond the square root of each prime, which a recent theorem of Maynard lets us count."
+        ]
+      }
+    ],
+    "release": "# An explicit exponent for the exceptional set of the Erd\u0151s\u2013Straus equation\n\n- Repository: https://github.com/creelie/ErdosProblem1\n- Final release: v3.1.0, https://github.com/creelie/ErdosProblem1/releases/tag/v3.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23486200 (https://doi.org/10.5281/zenodo.23486200)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23480292\n- Journal: Journal of Number Theory\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JNT-v3.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "26 ErdosStrausSieveConstant",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/journal-package-RamanujanJ-v1.0.0/ErdosStrausSieveConstant_Integers-tex.zip",
+        "sha256": "e8d410222d5d642c4ffc9cec6be419d91c64f2f198c08a74d59353d53bd06f4d",
+        "tex_files": [
+          "ErdosStrausSieveConstant_Integers-tex/main.tex"
+        ],
+        "titles": [
+          "A Power-Saving Asymptotic for the Two-Parameter Type~II Sieve Sum of the Erd\\H{o}s--Straus Equation}"
+        ],
+        "abstracts": [
+          "We find the full asymptotic expansion, with a power-saving error term, of the weighted count of search pairs that controls a recent sieve bound for the Erd\\H{o}s--Straus equation. Its leading constant, three times the one previously proved, and its linear term agree with those found earlier by Liu; the constant term and the power-saving error are new."
+        ]
+      }
+    ],
+    "release": "# A Power-Saving Asymptotic for the Two-Parameter Type II Sieve Sum of the Erd\u0151s\u2013Straus Equation\n\n- Repository: https://github.com/creelie/ErdosProblem1\n- Final release: v1.0.0, https://github.com/creelie/ErdosProblem1/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23480293 (https://doi.org/10.5281/zenodo.23480293)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23480292\n- Journal: The Ramanujan Journal\n\nThe repository ErdosProblem1 also holds the exceptional-set paper; its later releases (final v3.1.0, DOI 10.5281/zenodo.23486200) belong to that paper. The package is formatted for Integers, which does not take AI-drafted text, so send it to the Ramanujan Journal.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-RamanujanJ-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "27 ErdosSzekeresHighDim",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/journal-package-EJC-v1.1.0/ErdosSzekeresHighDim_journal-tex.zip",
+        "sha256": "d1f46511857928377b35729e2e6af7e6737c4156363843924d7268f123445699",
+        "tex_files": [
+          "ErdosSzekeresHighDim_journal-tex/tables/coords_r3_k9.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/cert_r4_k9.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/coords_r4.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/cert_r4.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/cert_r3.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/coords_r3.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/cert_r3_k9.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/numbers.tex",
+          "ErdosSzekeresHighDim_journal-tex/tables/coords_r4_k9.tex",
+          "ErdosSzekeresHighDim_journal-tex/main.tex"
+        ],
+        "titles": [
+          "New Lower Bounds for Erd\\H{o}s--Szekeres Numbers in Three and Four Dimensions}"
+        ],
+        "abstracts": [
+          "\\itshape We construct eleven points in general position in four-dimensional space with no eight of them in convex position, and fifteen points in general position in three-dimensional space with no eight of them in convex position. The first set raises the lower bound for the least number of points in four-space that forces eight in convex position from eleven to twelve, so that this number is now known to be twelve or thirteen. The second raises the corresponding lower bound in three-space from fourteen to sixteen. For nine points we construct thirteen points in four-space and eighteen points in three-space with no nine in convex position, which raise the lower bounds from thirteen to fourteen and from fifteen to nineteen. All four sets have small integer coordinates, and each proof is a finite list of identities that place one point of the set strictly inside a simplex spanned by others."
+        ]
+      }
+    ],
+    "release": "# New Lower Bounds for Erd\u0151s\u2013Szekeres Numbers in Three and Four Dimensions\n\n- Repository: https://github.com/creelie/Erdos-s1\n- Final release: v1.1.0, https://github.com/creelie/Erdos-s1/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23485633 (https://doi.org/10.5281/zenodo.23485633)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23483598\n- Journal: Electronic Journal of Combinatorics\n\nRelease version 1.1.0 as recorded on Zenodo; the repository creelie/Erdos-s1 is not reachable from this project, so its tag name was not read.\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "28 GraffitiDominationCounterexamples",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/graffiti-domination-counterexamples-source.zip",
+        "sha256": "2c4bc35ab2d2d583e2bd56b546e773a81644708c580212fe659d071e0fe2bcd1",
+        "tex_files": [
+          "graffiti-domination-counterexamples/main.tex"
+        ],
+        "titles": [
+          "Counterexamples to five conjectures\\\\ of Graffiti.pc on domination}"
+        ],
+        "abstracts": [
+          "Written on the Wall II, the list of conjectures of the program Graffiti.pc, records Conjectures 319, 352, 358, 359 and 427 as open. We show that all five are false. The counterexamples are caterpillars for Conjectures 352, 358, 359 and 427, and graphs built from complete graphs for Conjecture 319; each comes in an infinite family, and for Conjectures 358, 359 and 427 the difference between the two sides is unbounded."
+        ]
+      }
+    ],
+    "release": "# Counterexamples to five conjectures of Graffiti.pc on domination\n\n- Repository: https://github.com/creelie/eCY\n- Final release: v1.0.1, https://github.com/creelie/eCY/releases/tag/v1.0.1\n- Zenodo DOI of this release: 10.5281/zenodo.23288722 (https://doi.org/10.5281/zenodo.23288722)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23252219\n- Journal: Discrete Mathematics\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DM-v1.0.1/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "29 GrundyStrongProduct",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/ejc-manuscript-source-final2.zip",
+        "sha256": "2c585b5b0ce6b32ddd91fcedc3ca2cac247db5030f7c348321938836798640ef",
+        "tex_files": [
+          "ejc-manuscript-final2.tex"
+        ],
+        "titles": [
+          "The Grundy domination number is not\\\\ multiplicative on strong products}"
+        ],
+        "abstracts": [
+          "The strong product of the octahedron with a graph $H$ on $21$ vertices of Grundy domination number $10$ has Grundy domination number at least $21$. This disproves the conjecture of Bre\\v{s}ar, Bujt\\'as, Gologranc, Klav\\v{z}ar, Ko\\v{s}mrlj, Patk\\'os, Tuza and Vizer that $\\ggr(G\\sprod H)=\\ggr(G)\\ggr(H)$ for all graphs $G$ and $H$."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/grundy-strong-product_final2-tex.zip",
+        "sha256": "ab677af871aed4969b62ebf53b65fd5998ede3e6b0bdb8abe624bf39543f4a98",
+        "tex_files": [
+          "grundy-strong-product_final2/main.tex"
+        ],
+        "titles": [
+          "The Grundy domination number is not\\\\ multiplicative on strong products}"
+        ],
+        "abstracts": [
+          "The strong product of the octahedron with a graph $H$ on $21$ vertices of Grundy domination number $10$ has Grundy domination number at least $21$. This disproves the conjecture of Bre\\v{s}ar, Bujt\\'as, Gologranc, Klav\\v{z}ar, Ko\\v{s}mrlj, Patk\\'os, Tuza and Vizer that $\\ggr(G\\sprod H)=\\ggr(G)\\ggr(H)$ for all graphs $G$ and $H$."
+        ]
+      }
+    ],
+    "release": "# The Grundy domination number is not multiplicative on strong products\n\n- Repository: https://github.com/creelie/grundy-strong-product\n- Final release: v1.0.0, https://github.com/creelie/grundy-strong-product/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23378021 (https://doi.org/10.5281/zenodo.23378021)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23378020\n- Journal: Electronic Journal of Combinatorics\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "30 H1MaximalSublatticesSD",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/au-manuscript-source-final2.zip",
+        "sha256": "4c3f00c5d8413f9485d602c057e965afc0a7e023118407368f24e58c042e9573",
+        "tex_files": [
+          "au-manuscript-source-final2/main.tex"
+        ],
+        "titles": [
+          "Maximal sublattices of finite semidistributive lattices: the complement need not be an interval}"
+        ],
+        "abstracts": []
+      },
+      {
+        "archive": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/maximal-sublattices-sd_final2-tex.zip",
+        "sha256": "d0047fa4ba379a36a3882dd792338b0b0e8fc043f871ee5e738fe9fc86248262",
+        "tex_files": [
+          "maximal-sublattices-sd_final2/main.tex"
+        ],
+        "titles": [
+          "Maximal sublattices of finite semidistributive lattices:\\\\ the complement need not be an interval}"
+        ],
+        "abstracts": [
+          "Adams, Freese, Nation and Schmid proved that the complement of a maximal sublattice of a finite bounded lattice is an interval, and asked whether the same holds for finite semidistributive lattices; Adaricheva, Mata, Silberger and Zamojska-Dzienio conjectured that it does. It does not. In a 26-element semidistributive sublattice of the square of a 14-element semidistributive lattice, the diagonal is a maximal sublattice whose complement has two minimal elements."
+        ]
+      }
+    ],
+    "release": "# Maximal sublattices of finite semidistributive lattices: the complement need not be an interval\n\n- Repository: https://github.com/creelie/Conjecture-001\n- Final release: v1.0.0, https://github.com/creelie/Conjecture-001/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23353448 (https://doi.org/10.5281/zenodo.23353448)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23353447\n- Journal: Algebra Universalis\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-AU-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "31 KimberlingConjecture",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/31 KimberlingConjecture/journal-package-JIS-v2.0.0/KimberlingConjecture_final2-tex.zip",
+        "sha256": "00384d507b5ad412f6483a2f05177ccc3be237a74827a9a8fe0e2f44d4c1339e",
+        "tex_files": [
+          "KimberlingConjecture_final2-tex/main.tex"
+        ],
+        "titles": [
+          "The Number of Terms in Greedy Fibonacci--Lucas Representations}"
+        ],
+        "abstracts": [
+          "We prove Kimberling's conjecture on greedy representations by Fibonacci and Lucas numbers: the ratio of the number of Zeckendorf summands of $1,\\dots,n$ to the number of terms of their greedy representations tends to a limit in $(1.2,1.4)$, and the limit is $(5-\\sqrt5)/2$. We also prove the conjectures of Greathouse and Kurkov on the number of terms of the greedy representation."
+        ]
+      }
+    ],
+    "release": "# The Number of Terms in Greedy Fibonacci\u2013Lucas Representations\n\n- Repository: https://github.com/creelie/musical-rotary-phone\n- Final release: v2.0.0, https://github.com/creelie/musical-rotary-phone/releases/tag/v2.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23385265 (https://doi.org/10.5281/zenodo.23385265)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23315122\n- Journal: Journal of Integer Sequences\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JIS-v2.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "32 LiuFanoIndexConjecture",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/journal-package-PAMS-v2.0.0/LiuFanoIndexConjecture_final2-tex.zip",
+        "sha256": "32a22d163299603af27366b05fc50091ba78a3f996713f19e21268df305581c3",
+        "tex_files": [
+          "LiuFanoIndexConjecture_final2-tex/main.tex"
+        ],
+        "titles": [
+          "A counterexample to Liu's conjecture on Fano indices in dimension four}"
+        ],
+        "abstracts": [
+          "We prove that Liu's conjecture on Fano indices fails in dimension four: $1389$ is the index of a terminal Calabi--Yau fourfold and of a four-dimensional log canonical singularity, but it is not the Fano index of any canonical weighted projective space of dimension four."
+        ]
+      }
+    ],
+    "release": "# A counterexample to Liu's conjecture on Fano indices in dimension four\n\n- Repository: https://github.com/creelie/fuzzy-guacamole\n- Final release: v2.0.0, https://github.com/creelie/fuzzy-guacamole/releases/tag/v2.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23387505 (https://doi.org/10.5281/zenodo.23387505)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23319498\n- Journal: Proceedings of the AMS\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-PAMS-v2.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "33 MaximalSublatticesConvexGeometries",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/dmtcs-manuscript-source-final2.zip",
+        "sha256": "dfe2438ec6403b66028ffe6eef4e1ded34c87088b4e3423341bf3eefb44c34db",
+        "tex_files": [
+          "dmtcs-manuscript/dmtcs-manuscript.tex"
+        ],
+        "titles": [
+          "Maximal sublattices of convex geometries:\\\\ four counterexamples}"
+        ],
+        "abstracts": [
+          "Adaricheva, Mata, Silberger and Zamojska-Dzienio conjectured that in a finite convex geometry, and more generally in a finite join-semidistributive lattice, the complement of a maximal sublattice is a union of intervals with a common least element, and proved this for convex dimension two. We give convex geometries of convex dimension four and three in which such a complement has two and three minimal elements, so their theorem does not extend. The same examples refute their Hypothesis~4 and one half of their Question~2; an eleven-element convex geometry refutes the other half, and a ten-element lattice their Hypothesis~3."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/maximal-sublattices-cg-tex.zip",
+        "sha256": "8fdcbf5d2cc1f626c39362de7d510e82893f3aa9270232ef1c67050ff4cde0fe",
+        "tex_files": [
+          "maximal-sublattices-cg/main.tex"
+        ],
+        "titles": [
+          "Maximal sublattices of convex geometries:\\\\ four counterexamples}"
+        ],
+        "abstracts": [
+          "Adaricheva, Mata, Silberger and Zamojska-Dzienio conjectured that in a finite convex geometry, and more generally in a finite join-semidistributive lattice, the complement of a maximal sublattice is a union of intervals with a common least element, and proved this for convex dimension two. We give convex geometries of convex dimension four and three in which such a complement has two and three minimal elements, so their theorem does not extend. The same examples refute their Hypothesis~4 and one half of their Question~2; an eleven-element convex geometry refutes the other half, and a ten-element lattice their Hypothesis~3."
+        ]
+      }
+    ],
+    "release": "# Maximal sublattices of convex geometries: four counterexamples\n\n- Repository: https://github.com/creelie/congenial-robot\n- Final release: v1.0.0, https://github.com/creelie/congenial-robot/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23343145 (https://doi.org/10.5281/zenodo.23343145)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23343144\n- Journal: Discrete Mathematics & Theoretical Computer Science\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DMTCS-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "34 MorleyPSecting",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/morley-p-secting-tex.zip",
+        "sha256": "7c549c62b57e976507077a6e2435676734d9bf5f2a477e1fae9f4fb77e469317",
+        "tex_files": [
+          "morley-p-secting/main.tex"
+        ],
+        "titles": [
+          "Regular Morley tetrahedra from $p$-secting planes}"
+        ],
+        "abstracts": [
+          "Tran replaced the trisecting planes of the Morley construction for a tetrahedron by $p$-secting planes, with one parameter for each pair of opposite edges, and conjectured that a regular Morley tetrahedron forces a pair of opposite edges whose four cross edges are equal. We show that every isosceles tetrahedron with three different edge lengths is a counterexample: its Morley tetrahedron is regular exactly when one vertex lies on one of four lines through the centre, and every such point occurs. When all three parameters equal $4$, only the regular tetrahedron remains."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/regular-morley-p-secting-source-final2.zip",
+        "sha256": "162d42908ca9bb92d7a9ee979fffba68b07230a9267f833a0d6ba3380dba6e7d",
+        "tex_files": [
+          "main.tex"
+        ],
+        "titles": [
+          "Regular Morley tetrahedra from $p$-secting planes}"
+        ],
+        "abstracts": [
+          "Morley's theorem says that the adjacent angle trisectors of a triangle meet in the vertices of an equilateral triangle. Tran carried the construction to a tetrahedron by trisecting its six dihedral angles and, more generally, by $p$-secting planes, with one parameter $e,f,g>1$ for each pair of opposite edges; the resulting tetrahedron is denoted $\\mathcal M_{e,f,g}(ABCD)$. Tran showed that a regular Morley tetrahedron does not force the original tetrahedron to be regular, observed that in his examples some pair of opposite edges has four equal cross edges, and conjectured that this happens whenever $\\mathcal M_{e,f,g}(ABCD)$ is regular. We show that the conjecture is false. We place an isosceles tetrahedron in the box $[-a,a]\\times[-b,b]\\times[-c,c]$ and prove that $\\mathcal M_{e,f,g}(ABCD)$ is regular exactly when its vertex $A'$ differs from the centre of the box and lies on one of the four lines through the centre in the directions $(1,1,1)$, $(1,-1,-1)$, $(-1,1,-1)$ and $(-1,-1,1)$. Every interior point of these lines other than the centre occurs for exactly one triple of parameters. When $a$, $b$ and $c$ are pairwise different, no pair of opposite edges has four equal cross edges, so each of these tetrahedra is a counterexample. Two examples are given with the parameters in closed form. Finally, for quadrisecting planes, $e=f=g=4$, an isosceles tetrahedron has a regular Morley tetrahedron only if it is regular."
+        ]
+      }
+    ],
+    "release": "# Regular Morley tetrahedra from p-secting planes\n\n- Repository: https://github.com/creelie/efieldsMedal\n- Final release: v1.0.0, https://github.com/creelie/efieldsMedal/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23285912 (https://doi.org/10.5281/zenodo.23285912)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23285911\n- Journal: Journal of Geometry\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-JGeom-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "35 Musin24CellTwoTranslates",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/journal-package-DCG-v2.0.0/Musin24CellConjectureTwoTranslates_final2-tex.zip",
+        "sha256": "dd25e59a2416f7fe626633d23a4c2414d490ecfef077d9c39677d378b549b4b8",
+        "tex_files": [
+          "Musin24CellConjectureTwoTranslates_final2-tex/main.tex"
+        ],
+        "titles": [
+          "Densest packings of two translates\\\\ of a lattice in four dimensions}"
+        ],
+        "abstracts": [
+          "We prove that no packing of unit balls in $\\R^4$ whose centres form two translates of a lattice is denser than the $D_4$ lattice packing, and that $\\sqrt2\\,D_4$ is the only such packing of this density. Hence every Voronoi cell of such a packing has volume at least that of the regular $24$-cell, which is Musin's $24$-cell conjecture for these packings."
+        ]
+      }
+    ],
+    "release": "# Densest packings of two translates of a lattice in four dimensions\n\n- Repository: https://github.com/creelie/eD424\n- Final release: v2.0.0, https://github.com/creelie/eD424/releases/tag/v2.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23387006 (https://doi.org/10.5281/zenodo.23387006)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23239767\n- Journal: Discrete & Computational Geometry\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DCG-v2.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "36 SpectralAlgebrasCayley",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/laa-manuscript-source-final2.zip",
+        "sha256": "7d2432cc0696be950a66e03fe0090b48ef4cd5101d4f4aa9d880e852f60a7288",
+        "tex_files": [
+          "laa-manuscript-source-final2/laa-manuscript.tex"
+        ],
+        "titles": [
+          "Modular and integral spectral algebras of abelian Cayley graphs}"
+        ],
+        "abstracts": [
+          "The algebra generated by the adjacency matrix of a Cayley graph on a finite abelian group is semisimple in characteristic $p$ exactly when every element of the connection set has order prime to $p$. For cycles we find its minimal polynomial in every characteristic and the index of the integral algebra in the maximal order, and we show that a prism over an $m$-cycle has as many distinct eigenvalues as an abelian group of order $2m$ allows if and only if neither $4$ nor $6$ divides $m$."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/spectral-algebras-cayley_final2-tex.zip",
+        "sha256": "451f9bc58ea3e6f1a4b80693b645f4e8aeeba0e6a2a329a7acc7d0d78337bc6f",
+        "tex_files": [
+          "spectral-algebras-cayley_final2/main.tex"
+        ],
+        "titles": [
+          "Modular and integral spectral algebras\\\\ of abelian Cayley graphs}"
+        ],
+        "abstracts": [
+          "The algebra generated by the adjacency matrix of a Cayley graph on a finite abelian group is semisimple in characteristic $p$ exactly when every element of the connection set has order prime to $p$. For cycles we find its minimal polynomial in every characteristic and the index of the integral algebra in the maximal order, and we show that a prism over an $m$-cycle has as many distinct eigenvalues as an abelian group of order $2m$ allows if and only if neither $4$ nor $6$ divides $m$."
+        ]
+      }
+    ],
+    "release": "# Modular and integral spectral algebras of abelian Cayley graphs\n\n- Repository: https://github.com/creelie/cautious-fishstick\n- Final release: v1.0.0, https://github.com/creelie/cautious-fishstick/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23376892 (https://doi.org/10.5281/zenodo.23376892)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23376891\n- Journal: Linear Algebra and its Applications\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-LAA-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "37 StarFormingBipartite",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/dm-manuscript-source-final2.zip",
+        "sha256": "ce92b66112bcbfdde6958d4adb7d49c38126982cae60b868700bfeb647894550",
+        "tex_files": [
+          "main.tex"
+        ],
+        "titles": [
+          "Upper \\texorpdfstring{$k$}{k}-star-forming sets and \\texorpdfstring{$k$}{k}-independence in bipartite graphs}"
+        ],
+        "abstracts": [
+          "Sahbi conjectured that the $k$-independence number $\\beta_k$ and the upper $k$-star-forming number $\\SF_k$ agree on bipartite graphs, and in particular on chain graphs, and asked whether $\\beta_3=\\SF_3$ on triangle-free graphs. For every $k\\ge3$ we give a connected bipartite graph on $3k+3$ vertices with $\\beta_k=2k+2$ and $\\SF_k\\ge3k$. On chain graphs, however, $\\beta_k=\\SF_k$ for every $k$. We also show, answering another of his questions, that deciding whether a bipartite graph has a minimal $2$-star-forming set with at least $t$ vertices is NP-complete."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/star-forming-bipartite_final2-tex.zip",
+        "sha256": "fb7b14a7ad0a652c1acc8935da940e6bbb524d644c99ba2080858fbc6efdb1ea",
+        "tex_files": [
+          "star-forming-bipartite_final2/main.tex"
+        ],
+        "titles": [
+          "Upper $k$-star-forming sets and $k$-independence\\\\ in bipartite graphs}"
+        ],
+        "abstracts": [
+          "Sahbi conjectured that the $k$-independence number $\\beta_k$ and the upper $k$-star-forming number $\\SF_k$ agree on bipartite graphs, and in particular on chain graphs, and asked whether $\\beta_3=\\SF_3$ on triangle-free graphs. For every $k\\ge3$ we give a connected bipartite graph on $3k+3$ vertices with $\\beta_k=2k+2$ and $\\SF_k\\ge3k$. On chain graphs, however, $\\beta_k=\\SF_k$ for every $k$. We also show, answering another of his questions, that deciding whether a bipartite graph has a minimal $2$-star-forming set with at least $t$ vertices is NP-complete."
+        ]
+      }
+    ],
+    "release": "# Upper k-star-forming sets and k-independence in bipartite graphs\n\n- Repository: https://github.com/creelie/Conjecture-002\n- Final release: v1.1.0, https://github.com/creelie/Conjecture-002/releases/tag/v1.1.0\n- Zenodo DOI of this release: 10.5281/zenodo.23360032 (https://doi.org/10.5281/zenodo.23360032)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23356025\n- Journal: Discrete Mathematics\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DM-v1.1.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "38 UnionClosedLimit",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/38 UnionClosedLimit/journal-package-EJC-v1.1.1/UnionClosedLimit_EJC-tex.zip",
+        "sha256": "3eb0bd0c5dba5535d510c62f31d92674522ed56f2366cf518a7a3ad71cc5949d",
+        "tex_files": [
+          "main.tex"
+        ],
+        "titles": [
+          "Attaining the Entropy Limit\\\\ for Union-Closed Families}"
+        ],
+        "abstracts": [
+          "We prove that every finite union-closed family with a nonempty member has an element that lies in at least $0.38288525996\\ldots$ of its members. This number is the exact limit of the entropy method in the form developed by Liu and Jiang, and earlier work had come within a hundred-millionth of it without reaching it. The proof chooses the auxiliary function so that the two inequalities behind the method touch zero at a single point, and shows by a convexity argument that they stay nonnegative around it. With a global coupling of Jiang, the bound is strict for every family. We also prove the conjecture itself for every family of at most fifty-two members, two more than was known, by reducing a smallest counterexample to two families of down-sets of an unknown order and refuting them with a checked satisfiability proof.\n\n\\medskip\\noindent\\textbf{Keywords:} union-closed sets conjecture; entropy method; interval arithmetic; satisfiability"
+        ]
+      }
+    ],
+    "release": "# Attaining the Entropy Limit for Union-Closed Families\n\n- Repository: https://github.com/creelie/eUUR\n- Final release: v1.1.1, https://github.com/creelie/eUUR/releases/tag/v1.1.1\n- Zenodo DOI of this release: 10.5281/zenodo.23484615 (https://doi.org/10.5281/zenodo.23484615)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23480218\n- Journal: Electronic Journal of Combinatorics\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v1.1.1/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "39 WOWII66ForestNumber",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/wowii66-forest-number-dml-source.zip",
+        "sha256": "32c2570e9a5e3ca36ef5628dea0d59d921d5e4b76e104b8005127b21a38ea060",
+        "tex_files": [
+          "wowii66-forest-number-dml/wowii66-forest-number-dml.tex"
+        ],
+        "titles": [],
+        "abstracts": [
+          "\\noindent\n Conjecture 66 of Graffiti.pc bounds the order of a largest induced forest of a connected graph from below by the even mode of the degrees of its complement divided by its average degree. We show that it is false, under every reading of its definitions and by an unbounded margin.\n \\\\[2mm]\n {\\bf Keywords:} induced forest; forest number; degree sequence; complement; Graffiti.pc; counterexample.\\\\[2mm]\n {\\bf 2020 Mathematics Subject Classification:} 05C69, 05C05, 05C07."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/wowii66-forest-number-tex.zip",
+        "sha256": "cbec0489deac0dc85968157a2f07ee378a6981597eea5a90b22260d573f55a61",
+        "tex_files": [
+          "wowii66-forest-number/main.tex"
+        ],
+        "titles": [
+          "A counterexample to a conjecture\\\\ of Graffiti.pc on the forest number}"
+        ],
+        "abstracts": [
+          "Conjecture 66 of Graffiti.pc bounds the order of a largest induced forest of a connected graph from below by the even mode of the degrees of its complement divided by its average degree. We show that it is false, under every reading of its definitions and by an unbounded margin."
+        ]
+      }
+    ],
+    "release": "# A counterexample to a conjecture of Graffiti.pc on the forest number\n\n- Repository: https://github.com/creelie/eConjectureWOWII66\n- Final release: v1.0.0, https://github.com/creelie/eConjectureWOWII66/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23254097 (https://doi.org/10.5281/zenodo.23254097)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23254096\n- Journal: Discrete Mathematics\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-DM-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "40 WigdersonConj8F3",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/laa-manuscript-source-final2.zip",
+        "sha256": "6706a4cc1ec0e7734e7c886a297e704a8a5e0e42644e88b79c9569fdd55bfdd3",
+        "tex_files": [
+          "laa-manuscript/laa-manuscript.tex"
+        ],
+        "titles": [
+          "Nilpotent-free spaces of $3\\times 3$ matrices over the field with three elements}"
+        ],
+        "abstracts": [
+          "Wigderson conjectured that for every finite field $F$ and every $n\\ge1$ there is a space of $n\\times n$ matrices over $F$ of dimension $n^2-\\binom n2$ whose only nilpotent element is zero. We show that every six-dimensional space of $3\\times3$ matrices over $\\F_3$ contains a nonzero nilpotent matrix, so the conjecture fails for $F=\\F_3$ and $n=3$; the largest possible dimension is five."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/nilpotent-free-F3-tex.zip",
+        "sha256": "90e1c20e872f41c0c4b4c488c39e4b62df1691a7f7a4371efd38e8e2af673c6e",
+        "tex_files": [
+          "nilpotent-free-F3/main.tex"
+        ],
+        "titles": [
+          "Nilpotent-free spaces of $3\\times 3$ matrices\\\\ over the field with three elements}"
+        ],
+        "abstracts": [
+          "Wigderson conjectured that for every finite field $F$ and every $n\\ge1$ there is a space of $n\\times n$ matrices over $F$ of dimension $n^2-\\binom n2$ whose only nilpotent element is zero. We show that every six-dimensional space of $3\\times3$ matrices over $\\F_3$ contains a nonzero nilpotent matrix, so the conjecture fails for $F=\\F_3$ and $n=3$; the largest possible dimension is five."
+        ]
+      }
+    ],
+    "release": "# Nilpotent-free spaces of 3\u00d73 matrices over the field with three elements\n\n- Repository: https://github.com/creelie/congenial-waddle\n- Final release: v1.0.0, https://github.com/creelie/congenial-waddle/releases/tag/v1.0.0\n- Zenodo DOI of this release: 10.5281/zenodo.23343183 (https://doi.org/10.5281/zenodo.23343183)\n- Zenodo concept DOI (all versions): 10.5281/zenodo.23343182\n- Journal: Linear Algebra and its Applications\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-LAA-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  },
+  {
+    "folder": "41 WormaldTournaments",
+    "variants": [
+      {
+        "archive": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/ejc-manuscript-source-final2.zip",
+        "sha256": "32c141a3d9efff2fdadb44bd8868cba8c91cdadeb1acf30628e665f5a6a510fb",
+        "tex_files": [
+          "main.tex"
+        ],
+        "titles": [
+          "Two conjectures of Wormald on Hamilton cycles in tournaments}"
+        ],
+        "abstracts": [
+          "For a regular tournament on $d$ vertices with skew adjacency matrix $S$, the Hessian determinant $H$ that Wormald attached to its random blow-ups equals $d\\det(d^2I+S^2)/\\det(d^2I-S^2)$. Hence $H\\neq0$ and $d/H$ is the square of a rational number, as Wormald conjectured. For the cyclic tournament it gives $\\sqrt{d/H}=\\bigl((d+1)^d+(d-1)^d\\bigr)/\\bigl((d+i)^d+(d-i)^d\\bigr)$, so the associated constants tend to $\\cosh 1/\\cos 1=2.8559578925\\ldots$; this proves a second conjecture of Wormald and identifies his numerical constant."
+        ]
+      },
+      {
+        "archive": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/wormald-tournaments_final2-tex.zip",
+        "sha256": "549ffd70771b112f802c1c58bc61771ee913bbda010bd551b644acf0cfea627b",
+        "tex_files": [
+          "wormald-tournaments_final2/main.tex"
+        ],
+        "titles": [
+          "Two conjectures of Wormald on Hamilton cycles in tournaments}"
+        ],
+        "abstracts": [
+          "For a regular tournament on $d$ vertices with skew adjacency matrix $S$, the Hessian determinant $H$ that Wormald attached to its random blow-ups equals $d\\det(d^2I+S^2)/\\det(d^2I-S^2)$. Hence $H\\neq0$ and $d/H$ is the square of a rational number, as Wormald conjectured. For the cyclic tournament it gives $\\sqrt{d/H}=\\bigl((d+1)^d+(d-1)^d\\bigr)/\\bigl((d+i)^d+(d-i)^d\\bigr)$, so the associated constants tend to $\\cosh 1/\\cos 1=2.8559578925\\ldots$; this proves a second conjecture of Wormald and identifies his numerical constant."
+        ]
+      }
+    ],
+    "release": "# Two conjectures of Wormald on Hamilton cycles in tournaments\n\n- Repository: https://github.com/creelie/Breakthrough-problems-1\n- Final release: v1.0.1, https://github.com/creelie/Breakthrough-problems-1/releases/tag/v1.0.1 (the paper and its packages cite v1.0.0, https://github.com/creelie/Breakthrough-problems-1/releases/tag/v1.0.0; v1.0.1 carries the same paper and code and is the release Zenodo archived)\n- Zenodo DOI of release v1.0.1: 10.5281/zenodo.23567153 (https://doi.org/10.5281/zenodo.23567153)\n- Journal: European Journal of Combinatorics\n- Hexagon: hexagon:2610.00460v1 (under review), https://hexagonmath.org/2610.00460v1\n\nFolders: `hexagon/` (Hexagon package and form), `journal-package-EJC-v1.0.0/` (journal package), `paper/paper1` (PDF), `paper/paper2` (LaTeX source).\n"
+  }
+]

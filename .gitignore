@@ -1,0 +1,13 @@
+.lake/
+__pycache__/
+*.pyc
+*.exe
+*.aux
+*.log
+*.out
+*.blg
+*.rpi
+*.fls
+*.fdb_latexmk
+manuscript/main.pdf
+*.zip

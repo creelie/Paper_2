@@ -1,0 +1,3932 @@
+[
+  {
+    "name": "CLAUDE PAPERS/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1609,
+    "compressed": 893
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4894,
+    "compressed": 2330
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1445,
+    "compressed": 813
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/hexagon/PolyaVinogradovLogLog-Annals-tex.zip",
+    "size": 414250,
+    "compressed": 413852
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/hexagon/PolyaVinogradovLogLog-Annals.pdf",
+    "size": 860006,
+    "compressed": 824435
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/AI-USE-NOTE.md",
+    "size": 2397,
+    "compressed": 1225
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/COVER-LETTER-ANNALS.md",
+    "size": 3110,
+    "compressed": 1585
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/PolyaVinogradovLogLog-Annals-tex.zip",
+    "size": 414250,
+    "compressed": 413852
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/PolyaVinogradovLogLog-Annals.pdf",
+    "size": 860006,
+    "compressed": 824435
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/journal-package-Annals-v1.2.0/SUBMISSION-NOTES.md",
+    "size": 2694,
+    "compressed": 1399
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/paper/paper1/PolyaVinogradovLogLog-Annals.pdf",
+    "size": 860006,
+    "compressed": 824435
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/paper/paper2/PolyaVinogradovLogLog-Annals-tex.zip",
+    "size": 414250,
+    "compressed": 413852
+  },
+  {
+    "name": "CLAUDE PAPERS/01 PolyaVinogradovLogLog/RELEASE-DOI.md",
+    "size": 710,
+    "compressed": 399
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 2648,
+    "compressed": 1407
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/COVER-LETTER-HEXAGON.md",
+    "size": 1758,
+    "compressed": 1001
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 5302,
+    "compressed": 2568
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/SHA256SUMS",
+    "size": 466,
+    "compressed": 322
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/sym-several-times-hexagon-tex.zip",
+    "size": 190777,
+    "compressed": 190038
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/hexagon/sym-several-times-onecolumn.pdf",
+    "size": 888620,
+    "compressed": 846129
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/COVER-LETTER-JHEP.md",
+    "size": 3503,
+    "compressed": 1772
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/SHA256SUMS",
+    "size": 358,
+    "compressed": 250
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/SUBMISSION-NOTES-JHEP.md",
+    "size": 2589,
+    "compressed": 1410
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/sym-several-times-tex.zip",
+    "size": 185409,
+    "compressed": 184534
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/journal-package-JHEP-v1.0.1/sym-several-times.pdf",
+    "size": 924463,
+    "compressed": 880835
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/paper/paper1/sym-several-times-onecolumn.pdf",
+    "size": 888620,
+    "compressed": 846129
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/paper/paper1/sym-several-times.pdf",
+    "size": 924463,
+    "compressed": 880835
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/paper/paper2/sym-several-times-tex.zip",
+    "size": 185409,
+    "compressed": 184534
+  },
+  {
+    "name": "CLAUDE PAPERS/02 SYMSeveralTimes/RELEASE-DOI.md",
+    "size": 750,
+    "compressed": 427
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 2439,
+    "compressed": 1203
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/COVER-LETTER-HEXAGON.md",
+    "size": 1471,
+    "compressed": 832
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4902,
+    "compressed": 2283
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/knot-tables-hexagon-tex.zip",
+    "size": 158203,
+    "compressed": 156404
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/knot-tables-onecolumn.pdf",
+    "size": 373748,
+    "compressed": 364803
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/hexagon/SHA256SUMS",
+    "size": 454,
+    "compressed": 315
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/COVER-LETTER-JKTR.md",
+    "size": 2611,
+    "compressed": 1320
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/knot-tables-tex.zip",
+    "size": 21099,
+    "compressed": 21011
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/knot-tables.pdf",
+    "size": 373748,
+    "compressed": 364803
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/SHA256SUMS",
+    "size": 346,
+    "compressed": 244
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/journal-package-JKTR-v1.3.0/SUBMISSION-NOTES-JKTR.md",
+    "size": 2173,
+    "compressed": 1135
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/paper/paper1/knot-tables-onecolumn.pdf",
+    "size": 373748,
+    "compressed": 364803
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/paper/paper1/knot-tables.pdf",
+    "size": 373748,
+    "compressed": 364803
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/paper/paper2/knot-tables-tex.zip",
+    "size": 21099,
+    "compressed": 21011
+  },
+  {
+    "name": "CLAUDE PAPERS/03 KnotTables/RELEASE-DOI.md",
+    "size": 699,
+    "compressed": 387
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1692,
+    "compressed": 908
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 6172,
+    "compressed": 2869
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/HEXAGON-V1-CHECK.md",
+    "size": 669,
+    "compressed": 432
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/HEXAGON-V2-RESUBMISSION.md",
+    "size": 4972,
+    "compressed": 2414
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/uv-finite-brane-gas-onecolumn-tex-v3.1.0.zip",
+    "size": 9918339,
+    "compressed": 9920540
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/hexagon/uv-finite-brane-gas-onecolumn-v3.1.0.pdf",
+    "size": 9474776,
+    "compressed": 9230321
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/AI-PROVENANCE.md",
+    "size": 1264,
+    "compressed": 669
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/COVER-LETTER-JHEP.md",
+    "size": 3456,
+    "compressed": 1648
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/JHEP-SUBMISSION.md",
+    "size": 3047,
+    "compressed": 1618
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/SHA256SUMS",
+    "size": 542,
+    "compressed": 360
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/uv-finite-brane-gas-jhep-tex.zip",
+    "size": 9923580,
+    "compressed": 9924925
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/journal-package-JHEP-v3.1.0/uv-finite-brane-gas-jhep.pdf",
+    "size": 9530036,
+    "compressed": 9281125
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/paper/paper1/uv-finite-brane-gas-jhep.pdf",
+    "size": 9530036,
+    "compressed": 9281125
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/paper/paper2/uv-finite-brane-gas-jhep-tex.zip",
+    "size": 9923580,
+    "compressed": 9924925
+  },
+  {
+    "name": "CLAUDE PAPERS/04 BraneGasUV/RELEASE-DOI.md",
+    "size": 699,
+    "compressed": 392
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1631,
+    "compressed": 892
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/hcfinal.zip",
+    "size": 1775657,
+    "compressed": 1773023
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 6311,
+    "compressed": 2929
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 2375,
+    "compressed": 1190
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/HEXAGON_FORM.md",
+    "size": 5862,
+    "compressed": 2722
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/HodgeConjecture-journal-tex.zip",
+    "size": 2659748,
+    "compressed": 2657306
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/HodgeConjecture-journal.pdf",
+    "size": 1681114,
+    "compressed": 1631313
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/hexagon/HodgeConjecture_tex.zip",
+    "size": 2661488,
+    "compressed": 2659367
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/AI_PROVENANCE.md",
+    "size": 15070,
+    "compressed": 6143
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/COVER_LETTER_MZ.md",
+    "size": 2752,
+    "compressed": 1326
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/HodgeConjecture-tex.zip",
+    "size": 2659748,
+    "compressed": 2657306
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/HodgeConjecture.pdf",
+    "size": 1681114,
+    "compressed": 1631313
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/JOURNAL.md",
+    "size": 5548,
+    "compressed": 2590
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/journal-package-MZ-v2.7.0/SHA256SUMS",
+    "size": 771,
+    "compressed": 486
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/paper/paper1/HodgeConjecture.pdf",
+    "size": 1681114,
+    "compressed": 1631313
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/paper/paper2/HodgeConjecture-tex.zip",
+    "size": 2659748,
+    "compressed": 2657306
+  },
+  {
+    "name": "CLAUDE PAPERS/05 HodgeDenseLoci/RELEASE-DOI.md",
+    "size": 793,
+    "compressed": 433
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1575,
+    "compressed": 830
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4902,
+    "compressed": 2258
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/hexagon/lehmer-totient-journal-tex.zip",
+    "size": 3067627,
+    "compressed": 3066851
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/hexagon/lehmer-totient-journal.pdf",
+    "size": 3991042,
+    "compressed": 3731038
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/AI-PROVENANCE.md",
+    "size": 1032,
+    "compressed": 575
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/COVER-LETTER-IJNT.md",
+    "size": 2792,
+    "compressed": 1383
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/lehmer-totient-journal-tex.zip",
+    "size": 3067627,
+    "compressed": 3066851
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/lehmer-totient-journal.pdf",
+    "size": 3991042,
+    "compressed": 3731038
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/SHA256SUMS",
+    "size": 446,
+    "compressed": 307
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/journal-package-IJNT-v1.4.0/SUBMISSION-NOTES.md",
+    "size": 5762,
+    "compressed": 2419
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/paper/paper1/lehmer-totient-journal.pdf",
+    "size": 3991042,
+    "compressed": 3731038
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/paper/paper2/lehmer-totient-journal-tex.zip",
+    "size": 3067627,
+    "compressed": 3066851
+  },
+  {
+    "name": "CLAUDE PAPERS/06 LehmerTotient/RELEASE-DOI.md",
+    "size": 666,
+    "compressed": 374
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1526,
+    "compressed": 809
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/hexagon/DworkGenerations-tex.zip",
+    "size": 557908,
+    "compressed": 557487
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/hexagon/DworkGenerations.pdf",
+    "size": 877978,
+    "compressed": 868980
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 5739,
+    "compressed": 2633
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/hexagon/HEXAGON_FORM.md",
+    "size": 4184,
+    "compressed": 2121
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/AI_PROVENANCE.md",
+    "size": 2835,
+    "compressed": 1453
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/COVER_LETTER_CNTP.md",
+    "size": 2652,
+    "compressed": 1312
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/DworkGenerations-tex.zip",
+    "size": 557908,
+    "compressed": 557487
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/DworkGenerations.pdf",
+    "size": 877978,
+    "compressed": 868980
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/JOURNAL.md",
+    "size": 2832,
+    "compressed": 1505
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/journal-package-CNTP-v1.2.0/SHA256SUMS",
+    "size": 685,
+    "compressed": 441
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/paper/paper1/DworkGenerations.pdf",
+    "size": 877978,
+    "compressed": 868980
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/paper/paper2/DworkGenerations-tex.zip",
+    "size": 557908,
+    "compressed": 557487
+  },
+  {
+    "name": "CLAUDE PAPERS/07 DworkGenerations/RELEASE-DOI.md",
+    "size": 675,
+    "compressed": 372
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1761,
+    "compressed": 924
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 6007,
+    "compressed": 2744
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/hexagon/HEXAGON_FORM.md",
+    "size": 4413,
+    "compressed": 2260
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/hexagon/ReflexiveDescent-tex.zip",
+    "size": 275423,
+    "compressed": 274701
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/hexagon/ReflexiveDescent.pdf",
+    "size": 493979,
+    "compressed": 483950
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/AI_PROVENANCE.md",
+    "size": 2695,
+    "compressed": 1364
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/COVER_LETTER_ATMP.md",
+    "size": 2112,
+    "compressed": 1107
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/JOURNAL.md",
+    "size": 2503,
+    "compressed": 1367
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/ReflexiveDescent-tex.zip",
+    "size": 275423,
+    "compressed": 274701
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/ReflexiveDescent.pdf",
+    "size": 493979,
+    "compressed": 483950
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/journal-package-ATMP-v1.2.0/SHA256SUMS",
+    "size": 685,
+    "compressed": 439
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/paper/paper1/ReflexiveDescent.pdf",
+    "size": 493979,
+    "compressed": 483950
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/paper/paper2/ReflexiveDescent-tex.zip",
+    "size": 275423,
+    "compressed": 274701
+  },
+  {
+    "name": "CLAUDE PAPERS/08 ReflexiveDescent/RELEASE-DOI.md",
+    "size": 644,
+    "compressed": 373
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1822,
+    "compressed": 940
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 7705,
+    "compressed": 3438
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 2860,
+    "compressed": 1318
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/HEXAGON_FORM.md",
+    "size": 6746,
+    "compressed": 3036
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/YangMillsForestGauge-tex.zip",
+    "size": 342623,
+    "compressed": 342196
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/hexagon/YangMillsForestGauge.pdf",
+    "size": 936754,
+    "compressed": 920015
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/AI_PROVENANCE.md",
+    "size": 6216,
+    "compressed": 2926
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/COVER_LETTER_CMP.md",
+    "size": 2492,
+    "compressed": 1327
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/JOURNAL.md",
+    "size": 5681,
+    "compressed": 2832
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/SHA256SUMS",
+    "size": 692,
+    "compressed": 446
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/YangMillsForestGauge-tex.zip",
+    "size": 342623,
+    "compressed": 342196
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/journal-package-CMP-v3.4.0/YangMillsForestGauge.pdf",
+    "size": 936754,
+    "compressed": 920015
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/paper/paper1/YangMillsForestGauge.pdf",
+    "size": 936754,
+    "compressed": 920015
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/paper/paper2/YangMillsForestGauge-tex.zip",
+    "size": 342623,
+    "compressed": 342196
+  },
+  {
+    "name": "CLAUDE PAPERS/09 YangMillsForestGauge/RELEASE-DOI.md",
+    "size": 679,
+    "compressed": 388
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1809,
+    "compressed": 971
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/BLLM_JAIR-source.zip",
+    "size": 7381802,
+    "compressed": 7246228
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/BLLM_JAIR.pdf",
+    "size": 6335828,
+    "compressed": 6179546
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 8317,
+    "compressed": 3835
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1612,
+    "compressed": 830
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/hexagon/HEXAGON_FORM.md",
+    "size": 7740,
+    "compressed": 3663
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/AI_PROVENANCE_BLLM.md",
+    "size": 8332,
+    "compressed": 3908
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/BLLM_JAIR-source.zip",
+    "size": 7381802,
+    "compressed": 7246228
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/BLLM_JAIR.pdf",
+    "size": 6335828,
+    "compressed": 6179546
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/checklist.md",
+    "size": 5675,
+    "compressed": 2027
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/cover_letter.md",
+    "size": 2900,
+    "compressed": 1519
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/declarations.md",
+    "size": 2330,
+    "compressed": 1219
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/README.md",
+    "size": 2202,
+    "compressed": 1141
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/journal-package-JAIR-v3.2.1/SHA256SUMS",
+    "size": 834,
+    "compressed": 534
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/paper/paper1/BLLM_JAIR.pdf",
+    "size": 6335828,
+    "compressed": 6179546
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/paper/paper2/BLLM_JAIR-source.zip",
+    "size": 7381802,
+    "compressed": 7246228
+  },
+  {
+    "name": "CLAUDE PAPERS/10 BLLM/RELEASE-DOI.md",
+    "size": 766,
+    "compressed": 419
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 2622,
+    "compressed": 1324
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 5274,
+    "compressed": 2374
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/hexagon/MirrorClauseGSC-hexagon-tex.zip",
+    "size": 7642,
+    "compressed": 7647
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/hexagon/MirrorClauseGSC-hexagon.pdf",
+    "size": 162471,
+    "compressed": 159713
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/journal-package-LMP-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/journal-package-LMP-v1.0.0/MirrorClauseGSC-tex.zip",
+    "size": 7642,
+    "compressed": 7647
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/journal-package-LMP-v1.0.0/MirrorClauseGSC.pdf",
+    "size": 162471,
+    "compressed": 159713
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/journal-package-LMP-v1.0.0/SUBMISSION-NOTES.md",
+    "size": 2070,
+    "compressed": 1038
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/paper/paper1/MirrorClauseGSC.pdf",
+    "size": 162471,
+    "compressed": 159713
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/paper/paper2/MirrorClauseGSC-tex.zip",
+    "size": 7642,
+    "compressed": 7647
+  },
+  {
+    "name": "CLAUDE PAPERS/11 MirrorClauseGSC/RELEASE-DOI.md",
+    "size": 730,
+    "compressed": 358
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1586,
+    "compressed": 886
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/hexagon/book-ramsey-58-tex.zip",
+    "size": 350417,
+    "compressed": 350493
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/hexagon/book-ramsey-58.pdf",
+    "size": 705886,
+    "compressed": 691603
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4380,
+    "compressed": 2099
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/AI-PROVENANCE.md",
+    "size": 1329,
+    "compressed": 746
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/book-ramsey-58-tex.zip",
+    "size": 350417,
+    "compressed": 350493
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/book-ramsey-58.pdf",
+    "size": 705886,
+    "compressed": 691603
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/COVER-LETTER-DM.md",
+    "size": 2214,
+    "compressed": 1116
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/SHA256SUMS",
+    "size": 606,
+    "compressed": 399
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/journal-package-DM-v2.1.0/SUBMISSION-NOTES.md",
+    "size": 5081,
+    "compressed": 2246
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/paper/paper1/book-ramsey-58.pdf",
+    "size": 705886,
+    "compressed": 691603
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/paper/paper2/book-ramsey-58-tex.zip",
+    "size": 350417,
+    "compressed": 350493
+  },
+  {
+    "name": "CLAUDE PAPERS/12 BookRamsey58/RELEASE-DOI.md",
+    "size": 631,
+    "compressed": 356
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1144,
+    "compressed": 619
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/hexagon/GhostsBraneGases-onecolumn-tex.zip",
+    "size": 724974,
+    "compressed": 724621
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/hexagon/GhostsBraneGases-onecolumn.pdf",
+    "size": 964830,
+    "compressed": 912057
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4775,
+    "compressed": 2268
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1186,
+    "compressed": 653
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/journal-package-PRD-v3.3.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/journal-package-PRD-v3.3.0/GhostsBraneGases-tex.zip",
+    "size": 724564,
+    "compressed": 724348
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/journal-package-PRD-v3.3.0/GhostsBraneGases.pdf",
+    "size": 967757,
+    "compressed": 914513
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/paper/paper1/GhostsBraneGases.pdf",
+    "size": 967757,
+    "compressed": 914513
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/paper/paper2/GhostsBraneGases-tex.zip",
+    "size": 724564,
+    "compressed": 724348
+  },
+  {
+    "name": "CLAUDE PAPERS/13 GhostsBraneGases/RELEASE-DOI.md",
+    "size": 675,
+    "compressed": 375
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1160,
+    "compressed": 656
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4409,
+    "compressed": 2051
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1187,
+    "compressed": 658
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/hexagon/Sl2WeightSystemAtMinus3Over32_final2-tex.zip",
+    "size": 193297,
+    "compressed": 192628
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/hexagon/Sl2WeightSystemAtMinus3Over32_final2.pdf",
+    "size": 619251,
+    "compressed": 600973
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/journal-package-EJC-v2.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/journal-package-EJC-v2.1.0/JOURNAL.md",
+    "size": 4045,
+    "compressed": 1943
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/journal-package-EJC-v2.1.0/Sl2WeightSystemAtMinus3Over32_final2-tex.zip",
+    "size": 193297,
+    "compressed": 192628
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/journal-package-EJC-v2.1.0/Sl2WeightSystemAtMinus3Over32_final2.pdf",
+    "size": 619251,
+    "compressed": 600973
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/paper/paper1/Sl2WeightSystemAtMinus3Over32_final2.pdf",
+    "size": 619251,
+    "compressed": 600973
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/paper/paper2/Sl2WeightSystemAtMinus3Over32_final2-tex.zip",
+    "size": 193297,
+    "compressed": 192628
+  },
+  {
+    "name": "CLAUDE PAPERS/14 Sl2WeightSystemAtMinus3Over32/RELEASE-DOI.md",
+    "size": 653,
+    "compressed": 376
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1168,
+    "compressed": 664
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/hexagon/GolombWelchRadiusThree_final2-tex.zip",
+    "size": 473457,
+    "compressed": 473120
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/hexagon/GolombWelchRadiusThree_final2.pdf",
+    "size": 842975,
+    "compressed": 823496
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4336,
+    "compressed": 1981
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1193,
+    "compressed": 663
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/journal-package-JCTA-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/journal-package-JCTA-v1.1.0/GolombWelchRadiusThree_final2-tex.zip",
+    "size": 473457,
+    "compressed": 473120
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/journal-package-JCTA-v1.1.0/GolombWelchRadiusThree_final2.pdf",
+    "size": 842975,
+    "compressed": 823496
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/journal-package-JCTA-v1.1.0/JOURNAL.md",
+    "size": 3837,
+    "compressed": 1915
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/paper/paper1/GolombWelchRadiusThree_final2.pdf",
+    "size": 842975,
+    "compressed": 823496
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/paper/paper2/GolombWelchRadiusThree_final2-tex.zip",
+    "size": 473457,
+    "compressed": 473120
+  },
+  {
+    "name": "CLAUDE PAPERS/15 GolombWelchRadiusThree/RELEASE-DOI.md",
+    "size": 660,
+    "compressed": 369
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1118,
+    "compressed": 617
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4269,
+    "compressed": 1951
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1127,
+    "compressed": 617
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/hexagon/Kourovka2071b_final2-tex.zip",
+    "size": 229339,
+    "compressed": 228816
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/hexagon/Kourovka2071b_final2.pdf",
+    "size": 540351,
+    "compressed": 484997
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/journal-package-DM-v2.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/journal-package-DM-v2.1.0/JOURNAL.md",
+    "size": 3844,
+    "compressed": 1883
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/journal-package-DM-v2.1.0/Kourovka2071b_final2-tex.zip",
+    "size": 229339,
+    "compressed": 228816
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/journal-package-DM-v2.1.0/Kourovka2071b_final2.pdf",
+    "size": 540351,
+    "compressed": 484997
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/paper/paper1/Kourovka2071b_final2.pdf",
+    "size": 540351,
+    "compressed": 484997
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/paper/paper2/Kourovka2071b_final2-tex.zip",
+    "size": 229339,
+    "compressed": 228816
+  },
+  {
+    "name": "CLAUDE PAPERS/16 Kourovka2071b/RELEASE-DOI.md",
+    "size": 620,
+    "compressed": 345
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1119,
+    "compressed": 619
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4251,
+    "compressed": 1946
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1140,
+    "compressed": 614
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/hexagon/OddAntiholeConjecture_final2-tex.zip",
+    "size": 253548,
+    "compressed": 253149
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/hexagon/OddAntiholeConjecture_final2.pdf",
+    "size": 578098,
+    "compressed": 562326
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/journal-package-JGT-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/journal-package-JGT-v1.1.0/JOURNAL.md",
+    "size": 3863,
+    "compressed": 1944
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/journal-package-JGT-v1.1.0/OddAntiholeConjecture_final2-tex.zip",
+    "size": 253548,
+    "compressed": 253149
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/journal-package-JGT-v1.1.0/OddAntiholeConjecture_final2.pdf",
+    "size": 578098,
+    "compressed": 562326
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/paper/paper1/OddAntiholeConjecture_final2.pdf",
+    "size": 578098,
+    "compressed": 562326
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/paper/paper2/OddAntiholeConjecture_final2-tex.zip",
+    "size": 253548,
+    "compressed": 253149
+  },
+  {
+    "name": "CLAUDE PAPERS/17 OddAntiholeConjecture/RELEASE-DOI.md",
+    "size": 618,
+    "compressed": 340
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1136,
+    "compressed": 641
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/hexagon/GurvichNaumovaConjecture_final2-tex.zip",
+    "size": 277617,
+    "compressed": 276949
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/hexagon/GurvichNaumovaConjecture_final2.pdf",
+    "size": 649047,
+    "compressed": 620588
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4176,
+    "compressed": 1912
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/hexagon/HEXAGON-RESUBMISSION.md",
+    "size": 1207,
+    "compressed": 662
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/journal-package-DM-v2.2.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/journal-package-DM-v2.2.0/GurvichNaumovaConjecture_final2-tex.zip",
+    "size": 277617,
+    "compressed": 276949
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/journal-package-DM-v2.2.0/GurvichNaumovaConjecture_final2.pdf",
+    "size": 649047,
+    "compressed": 620588
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/journal-package-DM-v2.2.0/JOURNAL.md",
+    "size": 3401,
+    "compressed": 1619
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/paper/paper1/GurvichNaumovaConjecture_final2.pdf",
+    "size": 649047,
+    "compressed": 620588
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/paper/paper2/GurvichNaumovaConjecture_final2-tex.zip",
+    "size": 277617,
+    "compressed": 276949
+  },
+  {
+    "name": "CLAUDE PAPERS/18 GurvichNaumovaConjecture/RELEASE-DOI.md",
+    "size": 652,
+    "compressed": 369
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1974,
+    "compressed": 1036
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 5231,
+    "compressed": 2376
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/hexagon/welch-third-order-sum-free-tex.zip",
+    "size": 9642,
+    "compressed": 9483
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/hexagon/welch-third-order-sum-free.pdf",
+    "size": 419473,
+    "compressed": 409986
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/cover-letter.txt",
+    "size": 1987,
+    "compressed": 1085
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/MASTER-README.md",
+    "size": 2107,
+    "compressed": 1180
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/submission-checklist.md",
+    "size": 6029,
+    "compressed": 2857
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/welch-third-order-sum-free-tex.zip",
+    "size": 9642,
+    "compressed": 9483
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/journal-package-FFA-v1.1.0/welch-third-order-sum-free.pdf",
+    "size": 419473,
+    "compressed": 409986
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/paper/paper1/welch-third-order-sum-free.pdf",
+    "size": 419473,
+    "compressed": 409986
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/paper/paper2/welch-third-order-sum-free-tex.zip",
+    "size": 9642,
+    "compressed": 9483
+  },
+  {
+    "name": "CLAUDE PAPERS/19 WelchSumFree/RELEASE-DOI.md",
+    "size": 652,
+    "compressed": 355
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 2386,
+    "compressed": 1174
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/hexagon/even-lattice-paths-catalan-tex.zip",
+    "size": 150776,
+    "compressed": 149802
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/hexagon/even-lattice-paths-catalan.pdf",
+    "size": 501420,
+    "compressed": 486697
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 5068,
+    "compressed": 2255
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/cover-letter.txt",
+    "size": 2041,
+    "compressed": 1121
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/even-lattice-paths-catalan-tex.zip",
+    "size": 150776,
+    "compressed": 149802
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/even-lattice-paths-catalan.pdf",
+    "size": 501420,
+    "compressed": 486697
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/MASTER-README.md",
+    "size": 5201,
+    "compressed": 2119
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/journal-package-EJC-v1.1.0/submission-checklist.md",
+    "size": 6271,
+    "compressed": 3094
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/paper/paper1/even-lattice-paths-catalan.pdf",
+    "size": 501420,
+    "compressed": 486697
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/paper/paper2/even-lattice-paths-catalan-tex.zip",
+    "size": 150776,
+    "compressed": 149802
+  },
+  {
+    "name": "CLAUDE PAPERS/20 ShankarLatticePathsCatalan/RELEASE-DOI.md",
+    "size": 684,
+    "compressed": 376
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 2182,
+    "compressed": 1101
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/hexagon/circular-abelian-squares-tex.zip",
+    "size": 198102,
+    "compressed": 197377
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/hexagon/circular-abelian-squares.pdf",
+    "size": 484031,
+    "compressed": 437058
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 5430,
+    "compressed": 2420
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/journal-package-EJC-v2.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/journal-package-EJC-v2.1.0/AI_PROVENANCE_SimpsonCircularAbelianSquares.md",
+    "size": 2732,
+    "compressed": 1344
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/journal-package-EJC-v2.1.0/circular-abelian-squares-tex.zip",
+    "size": 198102,
+    "compressed": 197377
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/journal-package-EJC-v2.1.0/circular-abelian-squares.pdf",
+    "size": 484031,
+    "compressed": 437058
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/journal-package-EJC-v2.1.0/cover-letter.txt",
+    "size": 2297,
+    "compressed": 1172
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/paper/paper1/circular-abelian-squares.pdf",
+    "size": 484031,
+    "compressed": 437058
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/paper/paper2/circular-abelian-squares-tex.zip",
+    "size": 198102,
+    "compressed": 197377
+  },
+  {
+    "name": "CLAUDE PAPERS/21 SimpsonCircularAbelianSquares/RELEASE-DOI.md",
+    "size": 667,
+    "compressed": 374
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 2036,
+    "compressed": 1086
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4858,
+    "compressed": 2203
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/hexagon/tau-maximal-graphs-tex.zip",
+    "size": 78630,
+    "compressed": 78203
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/hexagon/tau-maximal-graphs.pdf",
+    "size": 405069,
+    "compressed": 394767
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/cover-letter.txt",
+    "size": 1915,
+    "compressed": 1013
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/MASTER-README.md",
+    "size": 1891,
+    "compressed": 1048
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/submission-checklist.md",
+    "size": 5886,
+    "compressed": 2793
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/tau-maximal-graphs-tex.zip",
+    "size": 78630,
+    "compressed": 78203
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/journal-package-DAM-v1.1.0/tau-maximal-graphs.pdf",
+    "size": 405069,
+    "compressed": 394767
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/paper/paper1/tau-maximal-graphs.pdf",
+    "size": 405069,
+    "compressed": 394767
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/paper/paper2/tau-maximal-graphs-tex.zip",
+    "size": 78630,
+    "compressed": 78203
+  },
+  {
+    "name": "CLAUDE PAPERS/22 TauMaximalGraphs/RELEASE-DOI.md",
+    "size": 636,
+    "compressed": 352
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1213,
+    "compressed": 636
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/hexagon/AndreanovKallusTwoPeriodicPackingD5_final2-tex.zip",
+    "size": 157567,
+    "compressed": 156690
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/hexagon/AndreanovKallusTwoPeriodicPackingD5_final2.pdf",
+    "size": 611461,
+    "compressed": 595124
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4096,
+    "compressed": 1914
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/journal-package-DCG-v2.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/journal-package-DCG-v2.0.0/AI_PROVENANCE_AndreanovKallusTwoPeriodicPackingD5.md",
+    "size": 4952,
+    "compressed": 2339
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/journal-package-DCG-v2.0.0/AndreanovKallusTwoPeriodicPackingD5_final2-tex.zip",
+    "size": 157567,
+    "compressed": 156690
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/journal-package-DCG-v2.0.0/AndreanovKallusTwoPeriodicPackingD5_final2.pdf",
+    "size": 611461,
+    "compressed": 595124
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/paper/paper1/AndreanovKallusTwoPeriodicPackingD5_final2.pdf",
+    "size": 611461,
+    "compressed": 595124
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/paper/paper2/AndreanovKallusTwoPeriodicPackingD5_final2-tex.zip",
+    "size": 157567,
+    "compressed": 156690
+  },
+  {
+    "name": "CLAUDE PAPERS/23 AndreanovKallusD5/RELEASE-DOI.md",
+    "size": 542,
+    "compressed": 317
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1169,
+    "compressed": 652
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/hexagon/Erdos.pdf",
+    "size": 735387,
+    "compressed": 537357
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/hexagon/Erdos1183-tex.zip",
+    "size": 1477155,
+    "compressed": 1475677
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4474,
+    "compressed": 2089
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/journal-package-EJC-v5/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/journal-package-EJC-v5/Erdos.pdf",
+    "size": 735387,
+    "compressed": 537357
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/journal-package-EJC-v5/Erdos1183-tex.zip",
+    "size": 1477155,
+    "compressed": 1475677
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/journal-package-EJC-v5/MASTER-README.md",
+    "size": 1807,
+    "compressed": 961
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/paper/paper1/Erdos.pdf",
+    "size": 735387,
+    "compressed": 537357
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/paper/paper2/Erdos1183-tex.zip",
+    "size": 1477155,
+    "compressed": 1475677
+  },
+  {
+    "name": "CLAUDE PAPERS/24 Erdos1183UnionClosedFamilies/RELEASE-DOI.md",
+    "size": 662,
+    "compressed": 399
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1193,
+    "compressed": 640
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/hexagon/ErdosStrausExceptionalSet_JNT-tex.zip",
+    "size": 1057255,
+    "compressed": 1056993
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/hexagon/ErdosStrausExceptionalSet_JNT.pdf",
+    "size": 1675745,
+    "compressed": 1654684
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4496,
+    "compressed": 2045
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/journal-package-JNT-v3.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/journal-package-JNT-v3.1.0/AI_PROVENANCE_ErdosStrausExceptionalSet.md",
+    "size": 5674,
+    "compressed": 2708
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/journal-package-JNT-v3.1.0/ErdosStrausExceptionalSet_JNT-tex.zip",
+    "size": 1057255,
+    "compressed": 1056993
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/journal-package-JNT-v3.1.0/ErdosStrausExceptionalSet_JNT.pdf",
+    "size": 1675745,
+    "compressed": 1654684
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/journal-package-JNT-v3.1.0/JOURNAL_ErdosStrausExceptionalSet.md",
+    "size": 4083,
+    "compressed": 2038
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/paper/paper1/ErdosStrausExceptionalSet_JNT.pdf",
+    "size": 1675745,
+    "compressed": 1654684
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/paper/paper2/ErdosStrausExceptionalSet_JNT-tex.zip",
+    "size": 1057255,
+    "compressed": 1056993
+  },
+  {
+    "name": "CLAUDE PAPERS/25 ErdosStrausExceptionalSet/RELEASE-DOI.md",
+    "size": 565,
+    "compressed": 330
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1193,
+    "compressed": 661
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/hexagon/ErdosStrausSieveConstant_Integers-tex.zip",
+    "size": 323311,
+    "compressed": 322790
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/hexagon/ErdosStrausSieveConstant_Integers.pdf",
+    "size": 731660,
+    "compressed": 716107
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4181,
+    "compressed": 1901
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/journal-package-RamanujanJ-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/journal-package-RamanujanJ-v1.0.0/AI_PROVENANCE_ErdosStrausSieveConstant.md",
+    "size": 2829,
+    "compressed": 1510
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/journal-package-RamanujanJ-v1.0.0/ErdosStrausSieveConstant_Integers-tex.zip",
+    "size": 323311,
+    "compressed": 322790
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/journal-package-RamanujanJ-v1.0.0/ErdosStrausSieveConstant_Integers.pdf",
+    "size": 731660,
+    "compressed": 716107
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/journal-package-RamanujanJ-v1.0.0/JOURNAL.md",
+    "size": 3830,
+    "compressed": 1891
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/paper/paper1/ErdosStrausSieveConstant_Integers.pdf",
+    "size": 731660,
+    "compressed": 716107
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/paper/paper2/ErdosStrausSieveConstant_Integers-tex.zip",
+    "size": 323311,
+    "compressed": 322790
+  },
+  {
+    "name": "CLAUDE PAPERS/26 ErdosStrausSieveConstant/RELEASE-DOI.md",
+    "size": 856,
+    "compressed": 475
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1143,
+    "compressed": 636
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/hexagon/ErdosSzekeresHighDim_journal-tex.zip",
+    "size": 486383,
+    "compressed": 484581
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/hexagon/ErdosSzekeresHighDim_journal.pdf",
+    "size": 661946,
+    "compressed": 640754
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4718,
+    "compressed": 2088
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/journal-package-EJC-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/journal-package-EJC-v1.1.0/AI_PROVENANCE_ErdosSzekeresHighDim.md",
+    "size": 4235,
+    "compressed": 2018
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/journal-package-EJC-v1.1.0/ErdosSzekeresHighDim_journal-tex.zip",
+    "size": 486383,
+    "compressed": 484581
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/journal-package-EJC-v1.1.0/ErdosSzekeresHighDim_journal.pdf",
+    "size": 661946,
+    "compressed": 640754
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/journal-package-EJC-v1.1.0/JOURNAL.md",
+    "size": 2650,
+    "compressed": 1353
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/paper/paper1/ErdosSzekeresHighDim_journal.pdf",
+    "size": 661946,
+    "compressed": 640754
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/paper/paper2/ErdosSzekeresHighDim_journal-tex.zip",
+    "size": 486383,
+    "compressed": 484581
+  },
+  {
+    "name": "CLAUDE PAPERS/27 ErdosSzekeresHighDim/RELEASE-DOI.md",
+    "size": 709,
+    "compressed": 412
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1100,
+    "compressed": 610
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/hexagon/graffiti-domination-counterexamples-tex.zip",
+    "size": 156093,
+    "compressed": 154666
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/hexagon/graffiti-domination-counterexamples.pdf",
+    "size": 444335,
+    "compressed": 430329
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 3943,
+    "compressed": 1761
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/cover-letter.txt",
+    "size": 2067,
+    "compressed": 1057
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/graffiti-domination-counterexamples-source.zip",
+    "size": 156093,
+    "compressed": 154666
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/graffiti-domination-counterexamples-tex.zip",
+    "size": 156093,
+    "compressed": 154666
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/graffiti-domination-counterexamples.pdf",
+    "size": 444335,
+    "compressed": 430329
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/MASTER-README.md",
+    "size": 3341,
+    "compressed": 1673
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/journal-package-DM-v1.0.1/submission-checklist.md",
+    "size": 4412,
+    "compressed": 2232
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/paper/paper1/graffiti-domination-counterexamples.pdf",
+    "size": 444335,
+    "compressed": 430329
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/paper/paper2/graffiti-domination-counterexamples-source.zip",
+    "size": 156093,
+    "compressed": 154666
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/paper/paper2/graffiti-domination-counterexamples-tex.zip",
+    "size": 156093,
+    "compressed": 154666
+  },
+  {
+    "name": "CLAUDE PAPERS/28 GraffitiDominationCounterexamples/RELEASE-DOI.md",
+    "size": 528,
+    "compressed": 312
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1096,
+    "compressed": 606
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/hexagon/ejc-manuscript-final2.pdf",
+    "size": 812254,
+    "compressed": 793635
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/hexagon/ejc-manuscript-source-final2.zip",
+    "size": 433281,
+    "compressed": 433348
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 3869,
+    "compressed": 1768
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/cover-letter.md",
+    "size": 1972,
+    "compressed": 1140
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/ejc-manuscript-final2.pdf",
+    "size": 812254,
+    "compressed": 793635
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/ejc-manuscript-source-final2.zip",
+    "size": 433281,
+    "compressed": 433348
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/grundy-strong-product_final2-tex.zip",
+    "size": 434690,
+    "compressed": 433795
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/grundy-strong-product_final2.pdf",
+    "size": 850816,
+    "compressed": 830364
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/MASTER-README.md",
+    "size": 3374,
+    "compressed": 1665
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/journal-package-EJC-v1.0.0/submission-checklist.md",
+    "size": 1994,
+    "compressed": 1035
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/paper1/ejc-manuscript-final2.pdf",
+    "size": 812254,
+    "compressed": 793635
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/paper1/grundy-strong-product_final2.pdf",
+    "size": 850816,
+    "compressed": 830364
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/paper2/ejc-manuscript-source-final2.zip",
+    "size": 433281,
+    "compressed": 433348
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/paper/paper2/grundy-strong-product_final2-tex.zip",
+    "size": 434690,
+    "compressed": 433795
+  },
+  {
+    "name": "CLAUDE PAPERS/29 GrundyStrongProduct/RELEASE-DOI.md",
+    "size": 585,
+    "compressed": 325
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1121,
+    "compressed": 613
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/hexagon/au-manuscript-final2.pdf",
+    "size": 592052,
+    "compressed": 568431
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/hexagon/au-manuscript-source-final2.zip",
+    "size": 284284,
+    "compressed": 283938
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4019,
+    "compressed": 1765
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/au-manuscript-final2.pdf",
+    "size": 592052,
+    "compressed": 568431
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/au-manuscript-source-final2.zip",
+    "size": 284284,
+    "compressed": 283938
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/cover-letter.md",
+    "size": 1996,
+    "compressed": 1072
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/MASTER-README.md",
+    "size": 3444,
+    "compressed": 1635
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/maximal-sublattices-sd_final2-tex.zip",
+    "size": 258284,
+    "compressed": 257563
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/maximal-sublattices-sd_final2.pdf",
+    "size": 595037,
+    "compressed": 573678
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/journal-package-AU-v1.0.0/submission-checklist.md",
+    "size": 1986,
+    "compressed": 1057
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/paper1/au-manuscript-final2.pdf",
+    "size": 592052,
+    "compressed": 568431
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/paper1/maximal-sublattices-sd_final2.pdf",
+    "size": 595037,
+    "compressed": 573678
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/paper2/au-manuscript-source-final2.zip",
+    "size": 284284,
+    "compressed": 283938
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/paper/paper2/maximal-sublattices-sd_final2-tex.zip",
+    "size": 258284,
+    "compressed": 257563
+  },
+  {
+    "name": "CLAUDE PAPERS/30 H1MaximalSublatticesSD/RELEASE-DOI.md",
+    "size": 580,
+    "compressed": 332
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1161,
+    "compressed": 663
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4174,
+    "compressed": 1873
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/hexagon/KimberlingConjecture_final2-tex.zip",
+    "size": 206314,
+    "compressed": 205873
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/hexagon/KimberlingConjecture_final2.pdf",
+    "size": 522810,
+    "compressed": 504243
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/journal-package-JIS-v2.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/journal-package-JIS-v2.0.0/AI_PROVENANCE_KimberlingConjecture.md",
+    "size": 2692,
+    "compressed": 1396
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/journal-package-JIS-v2.0.0/KimberlingConjecture_final2-tex.zip",
+    "size": 206314,
+    "compressed": 205873
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/journal-package-JIS-v2.0.0/KimberlingConjecture_final2.pdf",
+    "size": 522810,
+    "compressed": 504243
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/paper/paper1/KimberlingConjecture_final2.pdf",
+    "size": 522810,
+    "compressed": 504243
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/paper/paper2/KimberlingConjecture_final2-tex.zip",
+    "size": 206314,
+    "compressed": 205873
+  },
+  {
+    "name": "CLAUDE PAPERS/31 KimberlingConjecture/RELEASE-DOI.md",
+    "size": 570,
+    "compressed": 332
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1141,
+    "compressed": 622
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4041,
+    "compressed": 1809
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/hexagon/LiuFanoIndexConjecture_final2-tex.zip",
+    "size": 385062,
+    "compressed": 384771
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/hexagon/LiuFanoIndexConjecture_final2.pdf",
+    "size": 683842,
+    "compressed": 664718
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/journal-package-PAMS-v2.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/journal-package-PAMS-v2.0.0/AI_PROVENANCE_LiuFanoIndexConjecture.md",
+    "size": 5224,
+    "compressed": 2465
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/journal-package-PAMS-v2.0.0/LiuFanoIndexConjecture_final2-tex.zip",
+    "size": 385062,
+    "compressed": 384771
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/journal-package-PAMS-v2.0.0/LiuFanoIndexConjecture_final2.pdf",
+    "size": 683842,
+    "compressed": 664718
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/paper/paper1/LiuFanoIndexConjecture_final2.pdf",
+    "size": 683842,
+    "compressed": 664718
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/paper/paper2/LiuFanoIndexConjecture_final2-tex.zip",
+    "size": 385062,
+    "compressed": 384771
+  },
+  {
+    "name": "CLAUDE PAPERS/32 LiuFanoIndexConjecture/RELEASE-DOI.md",
+    "size": 562,
+    "compressed": 328
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1130,
+    "compressed": 628
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/hexagon/dmtcs-manuscript-final2.pdf",
+    "size": 627390,
+    "compressed": 598647
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/hexagon/dmtcs-manuscript-source-final2.zip",
+    "size": 407650,
+    "compressed": 406950
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4288,
+    "compressed": 1925
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/cover-letter.md",
+    "size": 1934,
+    "compressed": 986
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/dmtcs-manuscript-final2.pdf",
+    "size": 627390,
+    "compressed": 598647
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/dmtcs-manuscript-source-final2.zip",
+    "size": 407650,
+    "compressed": 406950
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/MASTER-README.md",
+    "size": 3127,
+    "compressed": 1471
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/maximal-sublattices-cg-tex.zip",
+    "size": 404126,
+    "compressed": 403163
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/maximal-sublattices-cg.pdf",
+    "size": 771167,
+    "compressed": 741495
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/journal-package-DMTCS-v1.0.0/submission-checklist.md",
+    "size": 2572,
+    "compressed": 1327
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/paper1/dmtcs-manuscript-final2.pdf",
+    "size": 627390,
+    "compressed": 598647
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/paper1/maximal-sublattices-cg.pdf",
+    "size": 771167,
+    "compressed": 741495
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/paper2/dmtcs-manuscript-source-final2.zip",
+    "size": 407650,
+    "compressed": 406950
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/paper/paper2/maximal-sublattices-cg-tex.zip",
+    "size": 404126,
+    "compressed": 403163
+  },
+  {
+    "name": "CLAUDE PAPERS/33 MaximalSublatticesConvexGeometries/RELEASE-DOI.md",
+    "size": 584,
+    "compressed": 339
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1063,
+    "compressed": 590
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4918,
+    "compressed": 2179
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/hexagon/regular-morley-p-secting-final2.pdf",
+    "size": 469566,
+    "compressed": 456855
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/hexagon/regular-morley-p-secting-source-final2.zip",
+    "size": 252349,
+    "compressed": 252100
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/cover-letter.txt",
+    "size": 1977,
+    "compressed": 1004
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/MASTER-README.md",
+    "size": 2505,
+    "compressed": 1328
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/morley-p-secting-tex.zip",
+    "size": 181719,
+    "compressed": 181102
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/morley-p-secting.pdf",
+    "size": 460451,
+    "compressed": 448167
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/regular-morley-p-secting-final2.pdf",
+    "size": 469566,
+    "compressed": 456855
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/regular-morley-p-secting-source-final2.zip",
+    "size": 252349,
+    "compressed": 252100
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/journal-package-JGeom-v1.0.0/submission-checklist.md",
+    "size": 4090,
+    "compressed": 2044
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/paper1/morley-p-secting.pdf",
+    "size": 460451,
+    "compressed": 448167
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/paper1/regular-morley-p-secting-final2.pdf",
+    "size": 469566,
+    "compressed": 456855
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/paper2/morley-p-secting-tex.zip",
+    "size": 181719,
+    "compressed": 181102
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/paper/paper2/regular-morley-p-secting-source-final2.zip",
+    "size": 252349,
+    "compressed": 252100
+  },
+  {
+    "name": "CLAUDE PAPERS/34 MorleyPSecting/RELEASE-DOI.md",
+    "size": 531,
+    "compressed": 299
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1164,
+    "compressed": 628
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4111,
+    "compressed": 1891
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/hexagon/Musin24CellConjectureTwoTranslates_final2-tex.zip",
+    "size": 170439,
+    "compressed": 169483
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/hexagon/Musin24CellConjectureTwoTranslates_final2.pdf",
+    "size": 567783,
+    "compressed": 551043
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/journal-package-DCG-v2.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/journal-package-DCG-v2.0.0/AI_PROVENANCE_Musin24CellConjectureTwoTranslates.md",
+    "size": 4518,
+    "compressed": 2170
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/journal-package-DCG-v2.0.0/Musin24CellConjectureTwoTranslates_final2-tex.zip",
+    "size": 170439,
+    "compressed": 169483
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/journal-package-DCG-v2.0.0/Musin24CellConjectureTwoTranslates_final2.pdf",
+    "size": 567783,
+    "compressed": 551043
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/paper/paper1/Musin24CellConjectureTwoTranslates_final2.pdf",
+    "size": 567783,
+    "compressed": 551043
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/paper/paper2/Musin24CellConjectureTwoTranslates_final2-tex.zip",
+    "size": 170439,
+    "compressed": 169483
+  },
+  {
+    "name": "CLAUDE PAPERS/35 Musin24CellTwoTranslates/RELEASE-DOI.md",
+    "size": 548,
+    "compressed": 321
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1099,
+    "compressed": 610
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4076,
+    "compressed": 1888
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/hexagon/laa-manuscript-final2.pdf",
+    "size": 660050,
+    "compressed": 630810
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/hexagon/laa-manuscript-source-final2.zip",
+    "size": 188599,
+    "compressed": 188086
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/cover-letter.md",
+    "size": 2205,
+    "compressed": 1101
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/highlights.txt",
+    "size": 385,
+    "compressed": 254
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/laa-manuscript-final2.pdf",
+    "size": 660050,
+    "compressed": 630810
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/laa-manuscript-source-final2.zip",
+    "size": 188599,
+    "compressed": 188086
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/MASTER-README.md",
+    "size": 3295,
+    "compressed": 1594
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/spectral-algebras-cayley_final2-tex.zip",
+    "size": 193640,
+    "compressed": 192575
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/spectral-algebras-cayley_final2.pdf",
+    "size": 648834,
+    "compressed": 622685
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/journal-package-LAA-v1.0.0/submission-checklist.md",
+    "size": 1946,
+    "compressed": 1006
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/paper1/laa-manuscript-final2.pdf",
+    "size": 660050,
+    "compressed": 630810
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/paper1/spectral-algebras-cayley_final2.pdf",
+    "size": 648834,
+    "compressed": 622685
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/paper2/laa-manuscript-source-final2.zip",
+    "size": 188599,
+    "compressed": 188086
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/paper/paper2/spectral-algebras-cayley_final2-tex.zip",
+    "size": 193640,
+    "compressed": 192575
+  },
+  {
+    "name": "CLAUDE PAPERS/36 SpectralAlgebrasCayley/RELEASE-DOI.md",
+    "size": 573,
+    "compressed": 324
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1156,
+    "compressed": 645
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/hexagon/dm-manuscript-final2.pdf",
+    "size": 574985,
+    "compressed": 554253
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/hexagon/dm-manuscript-source-final2.zip",
+    "size": 205584,
+    "compressed": 205495
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4165,
+    "compressed": 1874
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/cover-letter.md",
+    "size": 2548,
+    "compressed": 1284
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/dm-manuscript-final2.pdf",
+    "size": 574985,
+    "compressed": 554253
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/dm-manuscript-source-final2.zip",
+    "size": 205584,
+    "compressed": 205495
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/MASTER-README.md",
+    "size": 4374,
+    "compressed": 1973
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/star-forming-bipartite_final2-tex.zip",
+    "size": 207882,
+    "compressed": 207150
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/star-forming-bipartite_final2.pdf",
+    "size": 579674,
+    "compressed": 560457
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/journal-package-DM-v1.1.0/submission-checklist.md",
+    "size": 2123,
+    "compressed": 1167
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/paper1/dm-manuscript-final2.pdf",
+    "size": 574985,
+    "compressed": 554253
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/paper1/star-forming-bipartite_final2.pdf",
+    "size": 579674,
+    "compressed": 560457
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/paper2/dm-manuscript-source-final2.zip",
+    "size": 205584,
+    "compressed": 205495
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/paper/paper2/star-forming-bipartite_final2-tex.zip",
+    "size": 207882,
+    "compressed": 207150
+  },
+  {
+    "name": "CLAUDE PAPERS/37 StarFormingBipartite/RELEASE-DOI.md",
+    "size": 550,
+    "compressed": 317
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1193,
+    "compressed": 662
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4641,
+    "compressed": 2157
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/hexagon/UnionClosedLimit_EJC-tex.zip",
+    "size": 689224,
+    "compressed": 689234
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/hexagon/UnionClosedLimit_EJC.pdf",
+    "size": 1358771,
+    "compressed": 1332756
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/journal-package-EJC-v1.1.1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/journal-package-EJC-v1.1.1/AI_PROVENANCE_UnionClosedLimit.md",
+    "size": 4408,
+    "compressed": 2144
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/journal-package-EJC-v1.1.1/JOURNAL.md",
+    "size": 2749,
+    "compressed": 1440
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/journal-package-EJC-v1.1.1/UnionClosedLimit_EJC-tex.zip",
+    "size": 689224,
+    "compressed": 689234
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/journal-package-EJC-v1.1.1/UnionClosedLimit_EJC.pdf",
+    "size": 1358771,
+    "compressed": 1332756
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/paper/paper1/UnionClosedLimit_EJC.pdf",
+    "size": 1358771,
+    "compressed": 1332756
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/paper/paper2/UnionClosedLimit_EJC-tex.zip",
+    "size": 689224,
+    "compressed": 689234
+  },
+  {
+    "name": "CLAUDE PAPERS/38 UnionClosedLimit/RELEASE-DOI.md",
+    "size": 535,
+    "compressed": 313
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1114,
+    "compressed": 609
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 3847,
+    "compressed": 1716
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/hexagon/wowii66-forest-number-dml-source.zip",
+    "size": 78989,
+    "compressed": 78501
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/hexagon/wowii66-forest-number-dml.pdf",
+    "size": 438916,
+    "compressed": 428358
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/cover-letter.txt",
+    "size": 2586,
+    "compressed": 1313
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/MASTER-README.md",
+    "size": 2320,
+    "compressed": 1290
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/submission-checklist.md",
+    "size": 3512,
+    "compressed": 1842
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/wowii66-forest-number-dml-source.zip",
+    "size": 78989,
+    "compressed": 78501
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/wowii66-forest-number-dml.pdf",
+    "size": 438916,
+    "compressed": 428358
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/wowii66-forest-number-tex.zip",
+    "size": 80434,
+    "compressed": 79683
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/journal-package-DM-v1.0.0/wowii66-forest-number.pdf",
+    "size": 385910,
+    "compressed": 376762
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/paper1/wowii66-forest-number-dml.pdf",
+    "size": 438916,
+    "compressed": 428358
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/paper1/wowii66-forest-number.pdf",
+    "size": 385910,
+    "compressed": 376762
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/paper2/wowii66-forest-number-dml-source.zip",
+    "size": 78989,
+    "compressed": 78501
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/paper/paper2/wowii66-forest-number-tex.zip",
+    "size": 80434,
+    "compressed": 79683
+  },
+  {
+    "name": "CLAUDE PAPERS/39 WOWII66ForestNumber/RELEASE-DOI.md",
+    "size": 562,
+    "compressed": 320
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1180,
+    "compressed": 660
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4066,
+    "compressed": 1855
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/hexagon/laa-manuscript-final2.pdf",
+    "size": 499949,
+    "compressed": 478450
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/hexagon/laa-manuscript-source-final2.zip",
+    "size": 106740,
+    "compressed": 106400
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/cover-letter.md",
+    "size": 1859,
+    "compressed": 990
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/highlights.txt",
+    "size": 348,
+    "compressed": 207
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/laa-manuscript-final2.pdf",
+    "size": 499949,
+    "compressed": 478450
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/laa-manuscript-source-final2.zip",
+    "size": 106740,
+    "compressed": 106400
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/MASTER-README.md",
+    "size": 2633,
+    "compressed": 1307
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/nilpotent-free-F3-tex.zip",
+    "size": 108442,
+    "compressed": 107889
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/nilpotent-free-F3.pdf",
+    "size": 506270,
+    "compressed": 488083
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/journal-package-LAA-v1.0.0/submission-checklist.md",
+    "size": 1625,
+    "compressed": 897
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/paper1/laa-manuscript-final2.pdf",
+    "size": 499949,
+    "compressed": 478450
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/paper1/nilpotent-free-F3.pdf",
+    "size": 506270,
+    "compressed": 488083
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/paper2/laa-manuscript-source-final2.zip",
+    "size": 106740,
+    "compressed": 106400
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/paper/paper2/nilpotent-free-F3-tex.zip",
+    "size": 108442,
+    "compressed": 107889
+  },
+  {
+    "name": "CLAUDE PAPERS/40 WigdersonConj8F3/RELEASE-DOI.md",
+    "size": 579,
+    "compressed": 334
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/hexagon/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/hexagon/AI-PROVENANCE-HEXAGON.md",
+    "size": 1088,
+    "compressed": 597
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/hexagon/ejc-manuscript-final2.pdf",
+    "size": 726068,
+    "compressed": 702119
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/hexagon/ejc-manuscript-source-final2.zip",
+    "size": 289961,
+    "compressed": 289907
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/hexagon/HEXAGON-FORM-FULL.md",
+    "size": 4262,
+    "compressed": 1960
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/cover-letter.md",
+    "size": 2262,
+    "compressed": 1199
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/ejc-manuscript-final2.pdf",
+    "size": 726068,
+    "compressed": 702119
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/ejc-manuscript-source-final2.zip",
+    "size": 289961,
+    "compressed": 289907
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/MASTER-README.md",
+    "size": 1830,
+    "compressed": 1028
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/submission-checklist.md",
+    "size": 2234,
+    "compressed": 1186
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/wormald-tournaments_final2-tex.zip",
+    "size": 300800,
+    "compressed": 300099
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/journal-package-EJC-v1.0.0/wormald-tournaments_final2.pdf",
+    "size": 710813,
+    "compressed": 690051
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/paper1/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/paper1/ejc-manuscript-final2.pdf",
+    "size": 726068,
+    "compressed": 702119
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/paper1/wormald-tournaments_final2.pdf",
+    "size": 710813,
+    "compressed": 690051
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/paper2/",
+    "size": 0,
+    "compressed": 0
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/paper2/ejc-manuscript-source-final2.zip",
+    "size": 289961,
+    "compressed": 289907
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/paper/paper2/wormald-tournaments_final2-tex.zip",
+    "size": 300800,
+    "compressed": 300099
+  },
+  {
+    "name": "CLAUDE PAPERS/41 WormaldTournaments/RELEASE-DOI.md",
+    "size": 792,
+    "compressed": 399
+  },
+  {
+    "name": "CLAUDE PAPERS/INDEX.md",
+    "size": 18816,
+    "compressed": 4840
+  },
+  {
+    "name": "CLAUDE PAPERS/whole_package_grundy_strong_product.zip",
+    "size": 19903220,
+    "compressed": 19897322
+  }
+]

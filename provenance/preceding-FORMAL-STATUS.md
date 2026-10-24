@@ -1,0 +1,1 @@
+Fresh NilCore search, soundness and compiled certificate build passed. All manuscript modules were freshly re-elaborated against pinned Mathlib and the 16-theorem axiom audit passed. The main theorem still trusts the two documented native evaluations.

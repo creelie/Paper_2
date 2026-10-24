@@ -1,0 +1,9 @@
+{
+  "matrix_invariant_equivalence_cases": 19683,
+  "lower_bound_cases": 243,
+  "F2_example_cases": 64,
+  "F5_example_cases": 15625,
+  "F2_coefficient_matrices": 262144,
+  "F2_nilpotent_free_graphs": 128,
+  "status": "PASS"
+}

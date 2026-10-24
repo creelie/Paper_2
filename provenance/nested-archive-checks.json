@@ -1,0 +1,277 @@
+[
+  {
+    "archive": "FNL/CLAUDE PAPERS.zip",
+    "entries": 786,
+    "crc": "PASS"
+  },
+  {
+    "archive": "FNL/annals-eight-research-2026-10-23.zip",
+    "entries": 45,
+    "crc": "PASS"
+  },
+  {
+    "archive": "FNL/01-nilpotent-free-F3-LAA-2026-10-24.zip",
+    "entries": 50,
+    "crc": "PASS"
+  },
+  {
+    "archive": "FNL/02-SYM-null-projection-JHEP-2026-10-24.zip",
+    "entries": 36,
+    "crc": "PASS"
+  },
+  {
+    "archive": "FNL/03-Poisson-brane-bridge-AUDIT-2026-10-24.zip",
+    "entries": 35,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\01 PolyaVinogradovLogLog\\PolyaVinogradovLogLog-Annals-tex.zip",
+    "entries": 8,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\02 SYMSeveralTimes\\sym-several-times-tex.zip",
+    "entries": 14,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\03 KnotTables\\knot-tables-tex.zip",
+    "entries": 3,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\04 BraneGasUV\\uv-finite-brane-gas-jhep-tex.zip",
+    "entries": 19,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\05 HodgeDenseLoci\\HodgeConjecture-tex.zip",
+    "entries": 43,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\06 LehmerTotient\\lehmer-totient-journal-tex.zip",
+    "entries": 21,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\07 DworkGenerations\\DworkGenerations-tex.zip",
+    "entries": 8,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\08 ReflexiveDescent\\ReflexiveDescent-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\09 YangMillsForestGauge\\YangMillsForestGauge-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\10 BLLM\\BLLM_JAIR-source.zip",
+    "entries": 162,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\11 MirrorClauseGSC\\MirrorClauseGSC-tex.zip",
+    "entries": 1,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\12 BookRamsey58\\book-ramsey-58-tex.zip",
+    "entries": 3,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\13 GhostsBraneGases\\GhostsBraneGases-tex.zip",
+    "entries": 8,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\14 Sl2WeightSystemAtMinus3Over32\\Sl2WeightSystemAtMinus3Over32_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\15 GolombWelchRadiusThree\\GolombWelchRadiusThree_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\16 Kourovka2071b\\Kourovka2071b_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\17 OddAntiholeConjecture\\OddAntiholeConjecture_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\18 GurvichNaumovaConjecture\\GurvichNaumovaConjecture_final2-tex.zip",
+    "entries": 8,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\19 WelchSumFree\\welch-third-order-sum-free-tex.zip",
+    "entries": 2,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\20 ShankarLatticePathsCatalan\\even-lattice-paths-catalan-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\21 SimpsonCircularAbelianSquares\\circular-abelian-squares-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\22 TauMaximalGraphs\\tau-maximal-graphs-tex.zip",
+    "entries": 5,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\23 AndreanovKallusD5\\AndreanovKallusTwoPeriodicPackingD5_final2-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\24 Erdos1183UnionClosedFamilies\\Erdos1183-tex.zip",
+    "entries": 30,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\25 ErdosStrausExceptionalSet\\ErdosStrausExceptionalSet_JNT-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\26 ErdosStrausSieveConstant\\ErdosStrausSieveConstant_Integers-tex.zip",
+    "entries": 8,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\27 ErdosSzekeresHighDim\\ErdosSzekeresHighDim_journal-tex.zip",
+    "entries": 19,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\28 GraffitiDominationCounterexamples\\graffiti-domination-counterexamples-source.zip",
+    "entries": 11,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\29 GrundyStrongProduct\\ejc-manuscript-source-final2.zip",
+    "entries": 5,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\29 GrundyStrongProduct\\grundy-strong-product_final2-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\30 H1MaximalSublatticesSD\\au-manuscript-source-final2.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\30 H1MaximalSublatticesSD\\maximal-sublattices-sd_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\31 KimberlingConjecture\\KimberlingConjecture_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\32 LiuFanoIndexConjecture\\LiuFanoIndexConjecture_final2-tex.zip",
+    "entries": 6,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\33 MaximalSublatticesConvexGeometries\\dmtcs-manuscript-source-final2.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\33 MaximalSublatticesConvexGeometries\\maximal-sublattices-cg-tex.zip",
+    "entries": 11,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\34 MorleyPSecting\\morley-p-secting-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\34 MorleyPSecting\\regular-morley-p-secting-source-final2.zip",
+    "entries": 5,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\35 Musin24CellTwoTranslates\\Musin24CellConjectureTwoTranslates_final2-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\36 SpectralAlgebrasCayley\\laa-manuscript-source-final2.zip",
+    "entries": 6,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\36 SpectralAlgebrasCayley\\spectral-algebras-cayley_final2-tex.zip",
+    "entries": 9,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\37 StarFormingBipartite\\dm-manuscript-source-final2.zip",
+    "entries": 4,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\37 StarFormingBipartite\\star-forming-bipartite_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\38 UnionClosedLimit\\UnionClosedLimit_EJC-tex.zip",
+    "entries": 8,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\39 WOWII66ForestNumber\\wowii66-forest-number-dml-source.zip",
+    "entries": 5,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\39 WOWII66ForestNumber\\wowii66-forest-number-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\40 WigdersonConj8F3\\laa-manuscript-source-final2.zip",
+    "entries": 5,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\40 WigdersonConj8F3\\nilpotent-free-F3-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\41 WormaldTournaments\\ejc-manuscript-source-final2.zip",
+    "entries": 4,
+    "crc": "PASS"
+  },
+  {
+    "archive": "screening-sources\\41 WormaldTournaments\\wormald-tournaments_final2-tex.zip",
+    "entries": 7,
+    "crc": "PASS"
+  }
+]
