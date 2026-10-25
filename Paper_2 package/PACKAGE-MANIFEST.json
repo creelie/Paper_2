@@ -1,0 +1,89 @@
+{
+  "status": "reviewed and compiled package; release DOI pending",
+  "paper_number": 2,
+  "title": "Nilpotent-free spaces of 3 by 3 matrices over the field with three elements",
+  "authors": [
+    {
+      "name": "Deep Bhattacharjee",
+      "orcid": "0000-0003-0466-750X",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India",
+      "email": "itsdeep@live.com"
+    }
+  ],
+  "repository": "https://github.com/creelie/Paper_2",
+  "github_package_directory": "Paper_2 package",
+  "planned_release": "v1.2.0",
+  "journal": "Linear Algebra and its Applications",
+  "prior_manuscript_or_source_doi": "10.5281/zenodo.23607867",
+  "new_package_doi": null,
+  "row_or_margin_line_numbers": false,
+  "journal_submission_performed": false,
+  "hexagon_submission_performed": false,
+  "files": [
+    {
+      "path": "AI_PROVENANCE.md",
+      "bytes": 2147,
+      "sha256": "f8ee3e8524e9ad4ed39c20f6b3a7dabf63ab45aacf4a2b5bf3e01e4b7999e9d6"
+    },
+    {
+      "path": "aiprovinance.md",
+      "bytes": 2147,
+      "sha256": "f8ee3e8524e9ad4ed39c20f6b3a7dabf63ab45aacf4a2b5bf3e01e4b7999e9d6"
+    },
+    {
+      "path": "build-verification.json",
+      "bytes": 1266,
+      "sha256": "7990b3ad48ceeb026a175edd862aaa42378f14ff49721ca6e39bd1893a83d6fa"
+    },
+    {
+      "path": "coverletterjournal.pdf",
+      "bytes": 82982,
+      "sha256": "83e1d73510359bf9244316b54bce58ff30a6a7bdd80862967641eecf399233ed"
+    },
+    {
+      "path": "coverlettertex.zip",
+      "bytes": 1231,
+      "sha256": "804abc42473b207555a557cb99d86260c487e1050a52c1c511da43356fdde2c9"
+    },
+    {
+      "path": "hexagonsubmissionform.md",
+      "bytes": 4759,
+      "sha256": "6c3390a5f6aa3003d7767f195396a8d8fc088e7900146aae83da5694cf3a858d"
+    },
+    {
+      "path": "journalaideclarationform.pdf",
+      "bytes": 108369,
+      "sha256": "9a1f8aaf8c74de9cdc1ed42a537985161ee051b0f8e8c4d53c66c3acf2856466"
+    },
+    {
+      "path": "journalaideclarationform.tex",
+      "bytes": 2202,
+      "sha256": "418392b12afb297af1b787f4c6bc383b2d9da62f12a6a721cd376c5f09d7c855"
+    },
+    {
+      "path": "journalsubmissiondetails.md",
+      "bytes": 4565,
+      "sha256": "a23e9cb6f7af22415d21608c60d61f67da5c88a8a53e06a10566cbcd0354b570"
+    },
+    {
+      "path": "Nilpotent-free_spaces_of_3_by_3_matrices_over_the_field_with_three_elements.pdf",
+      "bytes": 587830,
+      "sha256": "f649ef0c077664ef85fd93f7bf2cd5ab5f618118af95455eeab32b27c2c63441"
+    },
+    {
+      "path": "Nilpotent-free_spaces_of_3_by_3_matrices_over_the_field_with_three_elementstex.zip",
+      "bytes": 59767,
+      "sha256": "18f54bc3ef4886034c64c9845478bf2695e3d2065d600bb59ce0049dd48238b0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1352,
+      "sha256": "c4d3daf4fea2e5d4acc1312d52a112201e0e65ae0abd549c0a1d6717e876a108"
+    },
+    {
+      "path": "submission-metadata.json",
+      "bytes": 5865,
+      "sha256": "b043524c599e628315832b5f36349927e850d8701f0f1c9f79dbe5f1270ea4fc"
+    }
+  ]
+}

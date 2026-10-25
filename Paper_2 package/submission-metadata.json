@@ -1,0 +1,74 @@
+{
+  "number": 2,
+  "title": "Nilpotent-free spaces of 3 by 3 matrices over the field with three elements",
+  "slug": "Nilpotent-free_spaces_of_3_by_3_matrices_over_the_field_with_three_elements",
+  "source": "C:/FNL_2/Annals/Paper_2/manuscript",
+  "pdf": "C:/FNL_2/Annals/Paper_2/Paper_2_Annals.pdf",
+  "repo": "Paper_2",
+  "local_repo": "C:/FNL_2/Annals/Paper_2",
+  "repo_package_dir": "Paper_2 package",
+  "next_version": "1.2.0",
+  "manuscript_doi": "10.5281/zenodo.23607867",
+  "preprint": "https://hexagonmath.org/2610.00480v1",
+  "primary_subject": "math.RA",
+  "cross_list": [
+    "math.NT"
+  ],
+  "msc2020": [
+    "15A30",
+    "15B33",
+    "11T99"
+  ],
+  "tags": [
+    "nilpotent matrices",
+    "matrix spaces",
+    "finite fields",
+    "computer-assisted proof",
+    "nilpotent-free subspaces"
+  ],
+  "journal": "Linear Algebra and its Applications",
+  "journal_slug": "linear-algebra-and-its-applications",
+  "journal_scope_url": "https://shop.elsevier.com/journals/linear-algebra-and-its-applications/0024-3795",
+  "journal_fit": "The exact extremal dimension of a finite-field matrix space, its explicit construction and structural analysis fit finite-dimensional matrix theory and its arithmetic and combinatorial aspects.",
+  "contribution": "The paper proves that the largest nilpotent-free subspace dimension in 3 by 3 matrices over the field with three elements is five. A direct algebraic construction gives the lower bound, while a finite reduction and independently checked search establish the upper bound and refute the proposed six-dimensional construction in this case.",
+  "ai_scope": "Claude through Claude Code assisted original searches, computations, Lean development and drafting. OpenAI Codex assisted the direct algebraic five-dimensional construction proof, the quadratic-form argument in characteristic three, an independent characteristic-coefficient verifier, proof auditing, scope corrections, references and typesetting.",
+  "formalization_scope": "The Lean development formalises the reduction and search soundness. Two compiled evaluations remain explicit parts of its trust base. This must not be described as an audit using only the three standard axioms.",
+  "formalization_urls": [
+    "https://github.com/creelie/Paper_2/tree/v1.1.0/formal"
+  ],
+  "tools": [
+    "Anthropic Claude / Claude Code",
+    "OpenAI Codex",
+    "Lean 4 / Mathlib",
+    "Python",
+    "C and C++",
+    "LaTeX / pdfLaTeX"
+  ],
+  "authors": [
+    {
+      "name": "Deep Bhattacharjee",
+      "orcid": "0000-0003-0466-750X",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India",
+      "email": "itsdeep@live.com"
+    }
+  ],
+  "abstract_tex": "We prove that the largest dimension of a linear subspace of the $3\\times3$ matrices over the field with three elements whose only nilpotent element is zero is five. Thus the proposed existence, over every finite field, of a nilpotent-free space of dimension $n^2-\\binom n2$ fails at $n=3$. An explicit five-dimensional example has a direct algebraic proof. For the upper bound, a complement to the strictly upper triangular matrices is the graph of a $3\\times6$ coefficient matrix. A search tree covers all $3^{18}$ such matrices using $3{,}109{,}888$ nodes. We give the coverage proof and a complete independent C verifier. The accompanying Lean development formalizes the reduction and search soundness, with two compiled evaluations explicitly included in its trust base. We also describe the nilpotent cone in characteristic three as a quadric in a seven-dimensional quotient and give examples over the fields with two and five elements.",
+  "abstract_plain": "We prove that the largest dimension of a linear subspace of the 3 x 3 matrices over the field with three elements whose only nilpotent element is zero is five. Thus the proposed existence, over every finite field, of a nilpotent-free space of dimension n^2- binomial n2 fails at n=3. An explicit five-dimensional example has a direct algebraic proof. For the upper bound, a complement to the strictly upper triangular matrices is the graph of a 3 x 6 coefficient matrix. A search tree covers all 3^18 such matrices using 3,109,888 nodes. We give the coverage proof and a complete independent C verifier. The accompanying Lean development formalizes the reduction and search soundness, with two compiled evaluations explicitly included in its trust base. We also describe the nilpotent cone in characteristic three as a quadric in a seven-dimensional quotient and give examples over the fields with two and five elements.",
+  "human_understanding": "All parts of this contribution have been checked and understood by a human.",
+  "human_understanding_basis": "Explicit declaration by the user in this conversation on 25 October 2026.",
+  "text_classification": "A mix of human-written and AI-generated",
+  "primary_pdf": "Nilpotent-free_spaces_of_3_by_3_matrices_over_the_field_with_three_elements.pdf",
+  "tex_zip": "Nilpotent-free_spaces_of_3_by_3_matrices_over_the_field_with_three_elementstex.zip",
+  "pdf_sha256": "f649ef0c077664ef85fd93f7bf2cd5ab5f618118af95455eeab32b27c2c63441",
+  "tex_zip_sha256": "18f54bc3ef4886034c64c9845478bf2695e3d2065d600bb59ce0049dd48238b0",
+  "pages": 13,
+  "hexagon_license": "CC BY 4.0 (manuscript record)",
+  "row_or_margin_line_numbers": false,
+  "source_changes_for_upload": [
+    "The C appendix listing is byte-preserved as code/audit_tree.tex; only its lstinputlisting filename changed so the source bundle contains TeX-compatible extensions."
+  ],
+  "journal_submission_performed": false,
+  "doi_of_new_package": null,
+  "package_release_pending": true,
+  "package_license": "MIT for repository code; manuscript preprint available under CC BY 4.0"
+}

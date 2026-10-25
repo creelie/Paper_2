@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "scope": "Extracted source ZIP compilation and full PDF text/page comparison, not a new proof audit.",
+  "main_document": "main.tex",
+  "compiler": "pdfLaTeX (TeX Live 2023)",
+  "source_zip_members": [
+    "code/audit_tree.tex",
+    "figures/board.pdf",
+    "main.bbl",
+    "main.tex",
+    "references.bib"
+  ],
+  "source_changes": [
+    "The C appendix listing is byte-preserved as code/audit_tree.tex; only its lstinputlisting filename changed so the source bundle contains TeX-compatible extensions."
+  ],
+  "matches_existing_pdf_text_and_pages": true,
+  "pages": 13,
+  "manuscript_pdf_sha256": "f649ef0c077664ef85fd93f7bf2cd5ab5f618118af95455eeab32b27c2c63441",
+  "source_zip_sha256": "18f54bc3ef4886034c64c9845478bf2695e3d2065d600bb59ce0049dd48238b0",
+  "cover_letter_pages": 1,
+  "ai_declaration_pages": 1,
+  "overfull_boxes": [],
+  "line_numbering_disabled": true,
+  "visual_review_complete": true,
+  "visual_review_scope": "All 12 supporting PDFs inspected in rendered contact sheets, with full-size inspection of Papers 2 and 6; manuscript first/last pages inspected. Manuscript bytes are unchanged and the extracted ZIP rebuild matches every page text and page count.",
+  "no_margin_line_numbers": true
+}

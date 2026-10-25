@@ -1,5 +1,10 @@
 # Nilpotent-free spaces over F3
 
+## Current upload package
+
+[Paper_2 package](Paper_2%20package/README.md) contains the reviewed Hexagon/Overleaf source ZIP, the current PDF, AI provenance, complete Hexagon fields and supporting files for **Linear Algebra and its Applications**. The package records the current proof/check scope and has no margin line numbers. No journal submission or acceptance is claimed. Version: 1.2.0.
+
+
 **Sole author: Deep Bhattacharjee.** Submission revision 1.1.0, 24 October 2026.
 
 The maximum dimension of a nilpotent-free linear subspace of M3(F3) is **five**. Every subspace of dimension at least six contains a nonzero nilpotent matrix. This disproves the universal finite-field assertion in Wigderson's Conjecture 8 at this particular field and size.
