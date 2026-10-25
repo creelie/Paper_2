@@ -2,7 +2,7 @@
 
 ## Current upload package
 
-[Paper_2 package](Paper_2%20package/README.md) contains the reviewed Hexagon/Overleaf source ZIP, the current PDF, AI provenance, complete Hexagon fields and supporting files for **Linear Algebra and its Applications**. The package records the current proof/check scope and has no margin line numbers. No journal submission or acceptance is claimed. Version: 1.2.0.
+[Paper_2 package](Paper_2%20package/README.md) contains the reviewed Hexagon/Overleaf source ZIP, the current PDF, AI provenance, complete Hexagon fields and supporting files for **Linear Algebra and its Applications**. The package records the current proof/check scope and has no margin line numbers. No journal submission or acceptance is claimed. Version: 1.2.0. Package DOI: [10.5281/zenodo.23629623](https://doi.org/10.5281/zenodo.23629623).
 
 
 **Sole author: Deep Bhattacharjee.** Submission revision 1.1.0, 24 October 2026.

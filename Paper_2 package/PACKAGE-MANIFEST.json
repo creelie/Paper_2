@@ -1,5 +1,5 @@
 {
-  "status": "reviewed and compiled package; release DOI pending",
+  "status": "published and checksum-verified package; DOI receipt added after publication",
   "paper_number": 2,
   "title": "Nilpotent-free spaces of 3 by 3 matrices over the field with three elements",
   "authors": [
@@ -15,7 +15,7 @@
   "planned_release": "v1.2.0",
   "journal": "Linear Algebra and its Applications",
   "prior_manuscript_or_source_doi": "10.5281/zenodo.23607867",
-  "new_package_doi": null,
+  "new_package_doi": "10.5281/zenodo.23629623",
   "row_or_margin_line_numbers": false,
   "journal_submission_performed": false,
   "hexagon_submission_performed": false,
@@ -29,6 +29,11 @@
       "path": "aiprovinance.md",
       "bytes": 2147,
       "sha256": "f8ee3e8524e9ad4ed39c20f6b3a7dabf63ab45aacf4a2b5bf3e01e4b7999e9d6"
+    },
+    {
+      "path": "ARCHIVE-DOI.md",
+      "bytes": 1150,
+      "sha256": "e164c0e76f641d513b143dc89f56e02c0d7363c8da34cb15db25e08570532ecb"
     },
     {
       "path": "build-verification.json",
@@ -47,8 +52,8 @@
     },
     {
       "path": "hexagonsubmissionform.md",
-      "bytes": 4759,
-      "sha256": "6c3390a5f6aa3003d7767f195396a8d8fc088e7900146aae83da5694cf3a858d"
+      "bytes": 4970,
+      "sha256": "879d8725ee7dd2ad257631ed3a1e8aa939b749ba2429b10aef85c7b4e725a496"
     },
     {
       "path": "journalaideclarationform.pdf",
@@ -62,8 +67,8 @@
     },
     {
       "path": "journalsubmissiondetails.md",
-      "bytes": 4565,
-      "sha256": "a23e9cb6f7af22415d21608c60d61f67da5c88a8a53e06a10566cbcd0354b570"
+      "bytes": 4776,
+      "sha256": "622f7fcb1632b527f98c6ebec76ef58b09461a10b016a968b66317638a284d77"
     },
     {
       "path": "Nilpotent-free_spaces_of_3_by_3_matrices_over_the_field_with_three_elements.pdf",
@@ -77,13 +82,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 1352,
-      "sha256": "c4d3daf4fea2e5d4acc1312d52a112201e0e65ae0abd549c0a1d6717e876a108"
+      "bytes": 1563,
+      "sha256": "3be9a5225c0f5a4c2e3a112b4a7c4cb21ca2e2fb151dd73eebef0e51a3fe835b"
+    },
+    {
+      "path": "release-verification.json",
+      "bytes": 1444,
+      "sha256": "612788366a9233ab2f37918c71b2398a64252e60ee06d8b814d04566b43a467c"
     },
     {
       "path": "submission-metadata.json",
-      "bytes": 5791,
-      "sha256": "5afa278411ab99501e10fe24c489500d32c1531e51cb33b508189edaf957402d"
+      "bytes": 6011,
+      "sha256": "64ed0810e37ab738f5602daf12702a49a5ef0276e9a9c53ab7142c7682952bfb"
     }
+  ],
+  "release_commit": "5f84817632a7323490a22a5967a28f951adc17fc",
+  "post_archive_receipt_files": [
+    "release-verification.json",
+    "ARCHIVE-DOI.md"
   ]
 }

@@ -68,7 +68,10 @@
     "The C appendix listing is byte-preserved as code/audit_tree.tex; only its lstinputlisting filename changed so the source bundle contains TeX-compatible extensions."
   ],
   "journal_submission_performed": false,
-  "doi_of_new_package": null,
-  "package_release_pending": true,
-  "package_license": "MIT for repository code; manuscript preprint available under CC BY 4.0"
+  "doi_of_new_package": "10.5281/zenodo.23629623",
+  "package_release_pending": false,
+  "package_license": "MIT for repository code; manuscript preprint available under CC BY 4.0",
+  "package_release": "https://github.com/creelie/Paper_2/releases/tag/v1.2.0",
+  "package_release_commit": "5f84817632a7323490a22a5967a28f951adc17fc",
+  "doi_receipt_added_after_publication": true
 }
